@@ -1,0 +1,1001 @@
+student_name,exam,first_time,prev_exam_result,challenges_faced,prep_level,school_support,teacher_impact,fail_reason,prep_strategy,subject_failed,student_category,subjects_taken,income_bracket,year,jamb_score
+Student_5,JAMB,Yes,Average,Fear,3,Accountability partners,Negative,External issues,I followed a routine,Biology,Science,['English' 'Maths' 'Biology' 'Chemistry'],0-100,2021,150
+Student_6,JAMB,Yes,Bad,nan,3,nan,Negative,nan,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,209
+Student_7,WAEC,Yes,nan,Lack of time due to chores/work,3,Mock exams,nan,Procrastination,I focus on weak areas,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,213
+Student_8,JAMB,Yes,Good,Time management,5,Extra lesson,Positive & Negative,nan,I practice with past questions,Maths,Science,['English' 'Maths' 'Chemistry' 'Biology'],0-100,2023,168
+Student_9,JAMB and WAEC,Yes,Bad,Lack of Finance,5,nan,nan,Procrastination,I focus on weak areas,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2022,203
+Student_10,JAMB,No,Good,nan,3,Counseling,nan,Inadequate preparation,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2020,230
+Student_11,JAMB and WAEC,No,Average,Other commitments,5,Moral Support,nan,nan,I followed a routine,Literature in English,Art,['English' 'Government' 'History' 'Literature in English'],"1,000 Upwards ",2020,270
+Student_12,JAMB,Yes,Average,Time management,4,Extra lesson,nan,nan,I attend extra classes,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],300-500,2023,258
+Student_13,JAMB,Yes,Bad,Time management, ,Mock exams,Positive,Lack of planning,Used additional resources,Literature in English,Art,['English' 'CRS' 'Literature in English' 'Government'],300-500,2024,226
+Student_14,WAEC,Yes,nan,Subject difficulty,4,Moral Support,nan,Poor Time management,I review my notes daily,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],300-500,2022,242
+Student_15,JAMB,No,Good,Time management,4,nan,nan,Procrastination,I put away other commitments,Literature in English,Art,['English' 'Literature in English' 'CRS' 'Government'],0-100,2021,212
+Student_16,WAEC,Yes,Average,Time management,5,nan,nan,Poor Time management,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2023,255
+Student_17,JAMB and WAEC,No,Average,Lack of Finance,3,Counseling,nan,nan,Used additional resources,CRS,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2022,237
+Student_18,WAEC,Yes,nan,Other commitments, ,Moral Support,Positive,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2021,237
+Student_19,WAEC,Yes,Average,Fear,4,Counseling,Positive & Negative,Inadequate preparation,I attend extra classes,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2022,203
+Student_20,WAEC,No,Good,Fear,4,Extra lesson,nan,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2020,181
+Student_21,WAEC,No,Bad,Lack of Finance,3,Extra lesson,Positive & Negative,Poor Time management,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],300-500,2023,240
+Student_22,JAMB,Yes,Good,Time management,3,nan,nan,Procrastination,Used additional resources,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],100-300,2021,246
+Student_23,JAMB,Yes,nan,Fear,2,Strict supervision,Positive,nan,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2024,220
+Student_24,JAMB and WAEC,Yes,Average,Fear,5,Extra lesson,nan,External issues,I review my notes daily,History,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2022,189
+Student_25,JAMB and WAEC,Yes,Bad,nan,3,Accountability partners,nan,Lack of planning,I review my notes daily,Government,Art,['English' 'Government' 'History' 'Literature in English'],100-300,2021,185
+Student_26,JAMB and WAEC,Yes,Good,Other commitments,4,Mock exams,nan,Inadequate preparation,I study with a partner,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],0-100,2022,150
+Student_27,WAEC,No,Average,Fear,5,Extra lesson,nan,Poor Time management,I focus on weak areas,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2020,237
+Student_28,JAMB,No,nan,Lack of Finance,4,Moral Support,nan,Inadequate preparation,I had many mock exams,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2023,224
+Student_29,WAEC,Yes,Good,Time management,4,nan,Positive,nan,I review my notes daily,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],"1,000 Upwards ",2023,310
+Student_30,WAEC,No,Good,Long waiting time,5,nan,Positive,Lack of planning,I review my notes daily,Maths,Science,['English' 'Maths' 'Biology' 'Chemistry'],100-300,2022,231
+Student_31,WAEC,Yes,Bad,Long waiting time,3,nan,nan,nan,I review my notes daily,History,Art,['English' 'Literature in English' 'History' 'CRS'],300-500,2022,266
+Student_32,WAEC,Yes,Bad,Anxiety, ,nan,nan,nan,Used additional resources,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],300-500,2024,226
+Student_33,JAMB and WAEC,No,Good,Long waiting time,3,Strict supervision,Positive & Negative,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2021,268
+Student_34,JAMB and WAEC,Yes,Good,Fear,4,Moral Support,nan,Procrastination,I focus on weak areas,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],300-500,2020,242
+Student_35,JAMB,No,Average,Anxiety, ,Strict supervision,nan,External issues,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],100-300,2021,241
+Student_36,WAEC,No,Average,Lack of Finance,5,Accountability partners,Positive & Negative,Poor Time management,Used additional resources,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],300-500,2020,218
+Student_37,WAEC,No,Good,Lack of Finance,5,nan,Positive & Negative,External issues,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2023,223
+Student_38,WAEC,Yes,Average,Fear,3,Extra lesson,nan,nan,Used additional resources,Physics,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2022,170
+Student_39,WAEC,Yes,Average,Time management,2,Moral Support,Positive & Negative,Poor Time management,I followed a routine,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2020,201
+Student_40,WAEC,Yes,Bad,Technical issues,4,nan,nan,nan,I had many mock exams,CRS,Art,['English' 'Government' 'CRS' 'History'],0-100,2023,167
+Student_41,JAMB and WAEC,No,Good,Lack of Finance,4,Strict supervision,nan,nan,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,233
+Student_42,WAEC,No,nan,Time management,3,nan,Negative,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2023,249
+Student_43,WAEC,Yes,nan,Time management,1,nan,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2023,320
+Student_44,WAEC,No,Good,Long waiting time,4,Strict supervision,nan,nan,I had many mock exams,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],100-300,2024,184
+Student_45,WAEC,Yes,nan,Anxiety,1,nan,nan,Inadequate preparation,I had many mock exams,History,Art,['English' 'CRS' 'Literature in English' 'History'],"1,000 Upwards ",2023,272
+Student_46,JAMB and WAEC,Yes,Good,nan,2,Strict supervision,nan,Inadequate preparation,I review my notes daily,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2023,150
+Student_47,JAMB and WAEC,Yes,Bad,Technical issues,4,nan,nan,Inadequate preparation,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2022,311
+Student_48,WAEC,Yes,nan,Time management,3,nan,nan,External issues,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],300-500,2022,283
+Student_49,JAMB,No,Bad,Fear,5,Strict supervision,nan,Procrastination,I review my notes daily,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],300-500,2021,242
+Student_50,WAEC,Yes,Average,Time management,5,Counseling,Positive,nan,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2020,230
+Student_51,JAMB,Yes,Average,Anxiety,5,Extra lesson,nan,Inadequate preparation,I had many mock exams,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2023,210
+Student_52,WAEC,Yes,Good,Anxiety,4,nan,nan,Inadequate preparation,I focus on weak areas,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2023,193
+Student_53,WAEC,Yes,nan,Long waiting time,3,nan,nan,Procrastination,I put away other commitments,History,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2021,190
+Student_54,JAMB and WAEC,Yes,Average,Long waiting time, ,Counseling,Positive & Negative,Poor Time management,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2023,259
+Student_55,WAEC,Yes,Good,Subject difficulty,2,Counseling,nan,Lack of planning,I review my notes daily,Literature in English,Art,['English' 'Literature in English' 'Government' 'CRS'],0-100,2021,191
+Student_56,JAMB and WAEC,Yes,nan,No guardian/supervisor,5,nan,Negative,Lack of planning,I study with a partner,Government,Art,['English' 'Government' 'Literature in English' 'CRS'],"500-1,000",2022,228
+Student_57,JAMB and WAEC,No,Bad,Time management,4,Moral Support,nan,Lack of planning,I followed a routine,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],100-300,2021,215
+Student_58,JAMB and WAEC,Yes,nan,Long waiting time,2,Moral Support,nan,nan,Used additional resources,CRS,Art,['English' 'CRS' 'Literature in English' 'Government'],0-100,2023,166
+Student_59,JAMB and WAEC,No,nan,Long waiting time,4,Mock exams,nan,Procrastination,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2022,191
+Student_60,JAMB and WAEC,Yes,Good,Time management,4,nan,Positive & Negative,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Biology'],100-300,2020,201
+Student_61,JAMB,Yes,Bad,Lack of Finance,4,Mock exams,Negative,Inadequate preparation,I practice with past questions,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"1,000 Upwards ",2022,257
+Student_62,JAMB and WAEC,Yes,Average,Subject difficulty,3,Strict supervision,Negative,nan,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2022,150
+Student_63,WAEC,Yes,Good,nan,4,nan,nan,Lack of planning,I had many mock exams,History,Art,['English' 'Literature in English' 'CRS' 'History'],100-300,2021,248
+Student_64,WAEC,Yes,Average,Fear,3,Extra lesson,nan,External issues,I attend extra classes,History,Art,['English' 'CRS' 'History' 'Government'],"1,000 Upwards ",2024,286
+Student_65,JAMB,No,Bad,Long waiting time, ,Strict supervision,Positive & Negative,External issues,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],300-500,2021,233
+Student_66,JAMB and WAEC,No,nan,Time management,2,Moral Support,nan,nan,I attend extra classes,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],300-500,2020,195
+Student_67,JAMB,No,Good,Time management,5,Accountability partners,nan,Lack of planning,I focus on weak areas,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],100-300,2020,236
+Student_68,JAMB and WAEC,Yes,Bad,Time management,4,Strict supervision,nan,Procrastination,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2023,302
+Student_69,JAMB,No,Good,Time management,3,Extra lesson,Positive,Procrastination,I practice with past questions,Government,Art,['English' 'Government' 'Literature in English' 'History'],300-500,2023,258
+Student_70,WAEC,Yes,Bad,Long waiting time,5,Extra lesson,nan,nan,I followed a routine,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,173
+Student_71,JAMB,Yes,Bad,Lack of Finance,3,Counseling,Positive & Negative,Inadequate preparation,I had many mock exams,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],0-100,2022,175
+Student_72,JAMB,Yes,nan,nan,3,nan,Positive,Lack of planning,I attend extra classes,Government,Art,['English' 'CRS' 'Government' 'Literature in English'],100-300,2020,225
+Student_73,JAMB,Yes,Average,Anxiety,4,Mock exams,Positive,Lack of planning,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Biology'],"1,000 Upwards ",2021,320
+Student_74,JAMB,Yes,Good,Anxiety,5,Moral Support,nan,Poor Time management,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,163
+Student_75,JAMB,Yes,Good,Fear,3,nan,Negative,Lack of planning,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Maths' 'Physics'],"1,000 Upwards ",2020,267
+Student_76,JAMB and WAEC,No,Bad,Fear,5,Moral Support,nan,Procrastination,I review my notes daily,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],"1,000 Upwards ",2022,299
+Student_77,WAEC,Yes,nan,Anxiety,4,Mock exams,Positive,Lack of planning,I focus on weak areas,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2023,280
+Student_78,WAEC,Yes,Good,Fear, ,nan,Positive & Negative,nan,I study with a partner,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Biology'],300-500,2022,255
+Student_79,WAEC,Yes,Good,Fear, ,Strict supervision,Positive,nan,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2024,187
+Student_80,WAEC,No,nan,Lack of Finance,4,Mock exams,Positive,Inadequate preparation,I followed a routine,CRS,Art,['English' 'CRS' 'History' 'Government'],100-300,2022,202
+Student_81,JAMB and WAEC,Yes,Bad,Fear,4,nan,Positive,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2022,200
+Student_82,JAMB and WAEC,No,Average,No guardian/supervisor,1,Mock exams,nan,nan,I review my notes daily,History,Art,['English' 'Literature in English' 'History' 'Government'],"1,000 Upwards ",2024,258
+Student_83,JAMB,No,Bad,Time management,5,Counseling,nan,nan,I study with a partner,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],"1,000 Upwards ",2023,285
+Student_84,JAMB,No,Bad,Long waiting time,4,Counseling,Negative,Procrastination,I attend extra classes,CRS,Art,['English' 'History' 'CRS' 'Government'],"500-1,000",2020,223
+Student_85,JAMB and WAEC,Yes,Good,Long waiting time,5,Counseling,nan,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"500-1,000",2022,256
+Student_86,JAMB,Yes,Good,Time management,4,nan,nan,Inadequate preparation,I had many mock exams,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2023,270
+Student_87,JAMB and WAEC,No,Average,nan,5,Mock exams,Negative,External issues,I focus on weak areas,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],100-300,2020,219
+Student_88,JAMB and WAEC,Yes,Bad,Lack of Finance,2,Accountability partners,Positive,Inadequate preparation,I study with a partner,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],100-300,2023,167
+Student_89,WAEC,Yes,Bad,Fear,3,Counseling,Negative,nan,I focus on weak areas,Government,Art,['English' 'History' 'Literature in English' 'Government'],100-300,2020,209
+Student_90,JAMB,Yes,Bad,Technical issues,3,nan,nan,Procrastination,I followed a routine,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2022,227
+Student_91,JAMB,Yes,Bad,nan,3,nan,Positive & Negative,External issues,I had many mock exams,CRS,Art,['English' 'Literature in English' 'Government' 'CRS'],100-300,2022,232
+Student_92,JAMB,Yes,Bad,Fear,2,Extra lesson,Positive & Negative,Procrastination,I focus on weak areas,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],0-100,2023,182
+Student_93,JAMB,No,nan,Lack of Finance,4,Strict supervision,nan,External issues,I attend extra classes,CRS,Art,['English' 'CRS' 'History' 'Literature in English'],"500-1,000",2022,254
+Student_94,WAEC,Yes,Bad,No guardian/supervisor,5,Mock exams,nan,Lack of planning,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2020,250
+Student_95,JAMB,No,Bad,nan,3,Accountability partners,nan,nan,I attend extra classes,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Biology'],100-300,2024,247
+Student_96,JAMB and WAEC,No,Good,Time management,5,Counseling,Negative,Lack of planning,I had many mock exams,Maths,Science,['English' 'Physics' 'Maths' 'Chemistry'],300-500,2023,259
+Student_97,JAMB and WAEC,No,Bad,Anxiety, ,Moral Support,Positive,Procrastination,I followed a routine,History,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2022,210
+Student_98,WAEC,Yes,Average,Time management,5,nan,Positive & Negative,Lack of planning,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2023,272
+Student_99,JAMB,Yes,Average,Fear,3,nan,nan,Procrastination,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"1,000 Upwards ",2021,308
+Student_100,JAMB and WAEC,Yes,nan,Fear, ,Extra lesson,nan,External issues,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'History' 'CRS'],0-100,2023,227
+Student_101,JAMB and WAEC,Yes,Bad,Anxiety,2,Extra lesson,Positive,Poor Time management,I had many mock exams,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2023,203
+Student_102,JAMB,No,Bad,nan,5,Counseling,Negative,nan,I put away other commitments,History,Art,['English' 'Government' 'History' 'CRS'],0-100,2022,219
+Student_103,JAMB and WAEC,No,Bad,Time management,2,Moral Support,nan,External issues,I practice with past questions,Biology,Science,['English' 'Physics' 'Chemistry' 'Biology'],300-500,2021,274
+Student_104,JAMB,Yes,Good,Lack of Finance,3,Mock exams,Positive & Negative,nan,I focus on weak areas,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"1,000 Upwards ",2023,236
+Student_105,JAMB,No,Good,Fear,3,Mock exams,Positive & Negative,Procrastination,I study with a partner,Biology,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2022,169
+Student_106,JAMB and WAEC,Yes,Good,Technical issues,5,Extra lesson,Negative,Inadequate preparation,I study with a partner,Government,Art,['English' 'History' 'CRS' 'Government'],0-100,2022,238
+Student_107,JAMB,Yes,Bad,nan,5,nan,Positive & Negative,External issues,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2020,177
+Student_108,JAMB and WAEC,No,Average,Anxiety,3,Strict supervision,Positive & Negative,nan,I followed a routine,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],300-500,2020,251
+Student_109,JAMB,No,Bad,Anxiety,5,nan,Positive,Inadequate preparation,I focus on weak areas,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2024,176
+Student_110,JAMB and WAEC,Yes,Bad,nan,5,Counseling,Positive,nan,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2022,237
+Student_111,WAEC,Yes,Average,nan,4,Extra lesson,nan,nan,I followed a routine,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2020,213
+Student_112,JAMB and WAEC,Yes,Good,Time management,5,nan,nan,nan,I had many mock exams,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2021,168
+Student_113,JAMB and WAEC,Yes,Good,Long waiting time,4,nan,Positive,Lack of planning,I study with a partner,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"1,000 Upwards ",2020,293
+Student_114,JAMB,No,Good,Time management,5,Mock exams,Positive,Poor Time management,I attend extra classes,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2020,251
+Student_115,WAEC,No,nan,No guardian/supervisor,4,nan,nan,nan,I had many mock exams,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],"1,000 Upwards ",2022,296
+Student_116,JAMB and WAEC,Yes,Good,Fear,3,nan,Negative,External issues,I focus on weak areas,History,Art,['English' 'History' 'CRS' 'Government'],300-500,2021,249
+Student_117,JAMB,Yes,Bad,nan,5,Extra lesson,nan,Inadequate preparation,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2022,270
+Student_118,WAEC,Yes,Average,Fear,5,Mock exams,nan,Lack of planning,Used additional resources,Biology,Science,['English' 'Maths' 'Physics' 'Biology'],"500-1,000",2022,265
+Student_750,WAEC,No,Bad,nan,4,nan,nan,Inadequate preparation,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],"500-1,000",2021,245
+Student_119,JAMB,Yes,nan,Fear, ,Extra lesson,Positive & Negative,Procrastination,I followed a routine,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],300-500,2024,208
+Student_120,JAMB and WAEC,No,Good,Time management,5,Strict supervision,Positive,Procrastination,I practice with past questions,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],100-300,2021,165
+Student_121,JAMB,No,nan,Fear, ,nan,nan,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],100-300,2020,207
+Student_122,JAMB and WAEC,No,Good,Technical issues,4,Extra lesson,nan,Procrastination,I review my notes daily,History,Art,['English' 'CRS' 'History' 'Government'],0-100,2023,212
+Student_123,WAEC,No,Bad,Time management,1,nan,Positive & Negative,Lack of planning,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2023,191
+Student_124,JAMB,No,Bad,Time management,3,nan,Negative,Procrastination,I study with a partner,History,Art,['English' 'Government' 'History' 'Literature in English'],"500-1,000",2022,207
+Student_125,JAMB and WAEC,Yes,Average,Other commitments,2,Mock exams,Positive,nan,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Biology'],300-500,2020,217
+Student_126,WAEC,Yes,Good,Fear,3,Mock exams,nan,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2022,231
+Student_127,WAEC,Yes,Bad,Other commitments,5,Mock exams,nan,External issues,I followed a routine,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2021,276
+Student_128,JAMB,Yes,Average,Long waiting time, ,Mock exams,nan,Inadequate preparation,I had many mock exams,Biology,Science,['English' 'Maths' 'Chemistry' 'Biology'],"500-1,000",2021,236
+Student_129,WAEC,No,Average,nan,3,Strict supervision,Positive & Negative,Lack of planning,I attend extra classes,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2022,256
+Student_130,JAMB and WAEC,Yes,Bad,Anxiety,4,nan,Negative,Procrastination,I focus on weak areas,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2023,209
+Student_131,WAEC,Yes,Bad,Fear,3,nan,nan,Inadequate preparation,I attend extra classes,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],"1,000 Upwards ",2020,280
+Student_132,JAMB and WAEC,Yes,Average,Lack of time due to chores/work,2,Mock exams,nan,External issues,I had many mock exams,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],100-300,2024,232
+Student_133,WAEC,Yes,Good,Fear,3,nan,nan,nan,I had many mock exams,History,Art,['English' 'Literature in English' 'Government' 'History'],300-500,2022,244
+Student_134,JAMB,Yes,Good,Fear,1,nan,Positive & Negative,Inadequate preparation,I attend extra classes,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"1,000 Upwards ",2021,309
+Student_135,JAMB and WAEC,Yes,nan,Long waiting time, ,Mock exams,Positive & Negative,Procrastination,I review my notes daily,History,Art,['English' 'Government' 'Literature in English' 'History'],"500-1,000",2024,304
+Student_136,WAEC,Yes,Bad,No guardian/supervisor,3,nan,nan,Lack of planning,I had many mock exams,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],300-500,2023,231
+Student_137,JAMB,No,Bad,Anxiety,5,Accountability partners,Positive & Negative,Procrastination,I had many mock exams,History,Art,['English' 'Literature in English' 'History' 'CRS'],"500-1,000",2022,249
+Student_138,JAMB and WAEC,No,Good,Time management,2,Accountability partners,Negative,Poor Time management,I attend extra classes,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"1,000 Upwards ",2022,295
+Student_139,JAMB,No,Good,Fear,3,Strict supervision,Positive & Negative,Inadequate preparation,I focus on weak areas,Literature in English,Art,['English' 'CRS' 'Literature in English' 'Government'],"1,000 Upwards ",2022,305
+Student_140,JAMB,Yes,Bad,Long waiting time,4,Counseling,Positive,nan,Used additional resources,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],300-500,2022,242
+Student_141,WAEC,Yes,Bad,Lack of Finance,1,nan,nan,Inadequate preparation,I review my notes daily,History,Art,['English' 'Literature in English' 'CRS' 'History'],300-500,2024,239
+Student_142,JAMB,No,Good,Long waiting time,2,nan,Positive,Poor Time management,I had many mock exams,Government,Art,['English' 'CRS' 'Government' 'History'],0-100,2024,150
+Student_143,JAMB and WAEC,Yes,Bad,Subject difficulty,5,Strict supervision,nan,Procrastination,I followed a routine,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],"500-1,000",2021,279
+Student_144,JAMB,No,Average,Technical issues,5,Counseling,Negative,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2023,217
+Student_145,JAMB and WAEC,Yes,nan,Time management,3,Mock exams,Positive & Negative,Poor Time management,I put away other commitments,CRS,Art,['English' 'CRS' 'Government' 'Literature in English'],"1,000 Upwards ",2022,269
+Student_146,JAMB and WAEC,Yes,Good,Long waiting time,3,Accountability partners,nan,Inadequate preparation,I study with a partner,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2023,189
+Student_147,JAMB and WAEC,Yes,Average,nan,3,Mock exams,nan,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2022,187
+Student_148,WAEC,Yes,Bad,nan,5,Strict supervision,nan,Procrastination,I had many mock exams,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],"500-1,000",2020,238
+Student_149,JAMB and WAEC,Yes,Good,Time management,3,Mock exams,Positive & Negative,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2024,302
+Student_150,JAMB,Yes,nan,Long waiting time,5,nan,nan,Lack of planning,I attend extra classes,History,Art,['English' 'Literature in English' 'CRS' 'History'],300-500,2023,276
+Student_151,JAMB,No,Average,Long waiting time,4,Extra lesson,Negative,Lack of planning,I put away other commitments,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2024,159
+Student_152,JAMB and WAEC,No,Bad,Anxiety,5,Extra lesson,Negative,Poor Time management,I practice with past questions,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2024,156
+Student_153,JAMB and WAEC,Yes,nan,No guardian/supervisor,5,Moral Support,nan,nan,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],"500-1,000",2024,216
+Student_154,JAMB,Yes,Bad,Lack of time due to chores/work,4,Strict supervision,Negative,Lack of planning,I study with a partner,Biology,Science,['English' 'Chemistry' 'Biology' 'Physics'],0-100,2024,207
+Student_155,WAEC,Yes,Bad,Fear,3,Strict supervision,Positive & Negative,Inadequate preparation,I attend extra classes,History,Art,['English' 'History' 'CRS' 'Literature in English'],100-300,2023,242
+Student_156,JAMB,Yes,Good,Time management,5,Extra lesson,Positive & Negative,Inadequate preparation,I followed a routine,Maths,Science,['English' 'Maths' 'Biology' 'Chemistry'],0-100,2020,172
+Student_157,JAMB,No,Bad,Long waiting time,5,Counseling,Positive,Poor Time management,I followed a routine,Biology,Science,['English' 'Physics' 'Maths' 'Biology'],300-500,2024,241
+Student_158,JAMB and WAEC,No,Bad,Time management,5,Moral Support,Negative,Poor Time management,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2024,221
+Student_159,JAMB and WAEC,Yes,Bad,Time management,2,nan,Positive & Negative,nan,I practice with past questions,Biology,Science,['English' 'Maths' 'Physics' 'Biology'],300-500,2023,285
+Student_160,JAMB,No,Good,Time management, ,Extra lesson,Positive,Inadequate preparation,I focus on weak areas,Government,Art,['English' 'Government' 'History' 'Literature in English'],300-500,2023,221
+Student_161,JAMB,Yes,Good,Long waiting time,5,nan,Negative,Procrastination,I review my notes daily,History,Art,['English' 'CRS' 'History' 'Literature in English'],"500-1,000",2022,279
+Student_162,JAMB,No,Average,Long waiting time,3,nan,Negative,Poor Time management,I attend extra classes,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],300-500,2021,275
+Student_163,JAMB,Yes,Good,Time management,4,nan,nan,Lack of planning,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2024,204
+Student_164,JAMB and WAEC,No,nan,Time management, ,Counseling,Positive,nan,I review my notes daily,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],"1,000 Upwards ",2024,275
+Student_165,JAMB and WAEC,Yes,nan,Subject difficulty,5,Counseling,Negative,nan,I had many mock exams,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2022,253
+Student_166,JAMB,No,Average,Long waiting time,3,nan,Positive & Negative,External issues,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2023,250
+Student_167,JAMB and WAEC,Yes,Good,Lack of time due to chores/work,4,Strict supervision,Negative,Inadequate preparation,I study with a partner,History,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2022,212
+Student_168,JAMB and WAEC,Yes,Average,nan,2,nan,nan,Lack of planning,I practice with past questions,Maths,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2022,243
+Student_169,JAMB and WAEC,No,Bad,Technical issues,4,Mock exams,nan,Inadequate preparation,I followed a routine,CRS,Art,['English' 'CRS' 'Literature in English' 'Government'],0-100,2022,207
+Student_170,WAEC,No,Good,nan,5,nan,Positive & Negative,nan,I review my notes daily,History,Art,['English' 'CRS' 'History' 'Literature in English'],0-100,2024,192
+Student_171,JAMB and WAEC,No,nan,nan,5,Strict supervision,Positive & Negative,Poor Time management,I followed a routine,History,Art,['English' 'History' 'Literature in English' 'CRS'],100-300,2020,214
+Student_172,JAMB,Yes,Good,Fear,5,Moral Support,nan,Inadequate preparation,I study with a partner,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2024,311
+Student_173,JAMB and WAEC,Yes,nan,nan,3,Mock exams,Positive,Inadequate preparation,I focus on weak areas,CRS,Art,['English' 'Literature in English' 'History' 'CRS'],0-100,2024,217
+Student_174,WAEC,No,Good,Technical issues,5,Strict supervision,nan,nan,I attend extra classes,Maths,Science,['English' 'Physics' 'Biology' 'Maths'],300-500,2022,271
+Student_175,JAMB,Yes,nan,Technical issues,1,Extra lesson,Positive,Poor Time management,I had many mock exams,Maths,Science,['English' 'Maths' 'Biology' 'Physics'],100-300,2023,227
+Student_176,JAMB,Yes,Good,Fear,5,nan,Negative,Procrastination,I had many mock exams,History,Art,['English' 'Literature in English' 'CRS' 'History'],"1,000 Upwards ",2024,320
+Student_177,JAMB and WAEC,No,nan,Time management,5,nan,nan,Lack of planning,I followed a routine,History,Art,['English' 'Government' 'History' 'Literature in English'],100-300,2020,223
+Student_178,JAMB,Yes,nan,No guardian/supervisor,3,nan,nan,nan,I review my notes daily,CRS,Art,['English' 'Government' 'History' 'CRS'],100-300,2021,238
+Student_179,JAMB and WAEC,Yes,Bad,Time management, ,Mock exams,Negative,nan,I focus on weak areas,Maths,Science,['English' 'Physics' 'Maths' 'Biology'],300-500,2022,212
+Student_180,JAMB and WAEC,No,nan,Fear,3,Extra lesson,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,231
+Student_181,WAEC,No,Bad,Technical issues,5,nan,nan,Inadequate preparation,I study with a partner,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2023,253
+Student_182,JAMB,No,Average,Long waiting time,3,Mock exams,Positive,Inadequate preparation,I put away other commitments,Biology,Science,['English' 'Biology' 'Physics' 'Maths'],0-100,2023,184
+Student_183,JAMB and WAEC,Yes,nan,Time management,2,nan,nan,nan,Used additional resources,Literature in English,Art,['English' 'Literature in English' 'CRS' 'Government'],0-100,2023,198
+Student_184,JAMB,No,Bad,Lack of time due to chores/work,3,nan,nan,Poor Time management,Used additional resources,History,Art,['English' 'History' 'CRS' 'Literature in English'],300-500,2024,281
+Student_185,JAMB and WAEC,No,nan,Time management,4,Mock exams,nan,External issues,I put away other commitments,Government,Art,['English' 'Literature in English' 'Government' 'CRS'],100-300,2020,222
+Student_186,WAEC,Yes,nan,Time management,3,nan,Positive,Inadequate preparation,I attend extra classes,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2020,210
+Student_187,JAMB and WAEC,Yes,Bad,Lack of Finance, ,Moral Support,Negative,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],"1,000 Upwards ",2024,238
+Student_188,JAMB,No,Bad,Subject difficulty,2,Strict supervision,nan,nan,I had many mock exams,Physics,Science,['English' 'Maths' 'Physics' 'Chemistry'],"500-1,000",2023,207
+Student_189,JAMB,Yes,Good,Long waiting time,2,Counseling,nan,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],"1,000 Upwards ",2024,295
+Student_190,JAMB and WAEC,Yes,Bad,Time management,3,Accountability partners,nan,Procrastination,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2020,236
+Student_191,JAMB and WAEC,Yes,Average,Lack of time due to chores/work,3,Strict supervision,nan,Lack of planning,I followed a routine,History,Art,['English' 'Government' 'History' 'Literature in English'],300-500,2023,274
+Student_192,WAEC,Yes,Average,Long waiting time,5,nan,nan,nan,I review my notes daily,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],"500-1,000",2024,306
+Student_193,JAMB,No,Bad,Time management,5,nan,nan,Lack of planning,Used additional resources,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2020,249
+Student_194,JAMB and WAEC,Yes,Average,Fear,5,nan,nan,Poor Time management,I attend extra classes,Government,Art,['English' 'History' 'CRS' 'Government'],100-300,2022,225
+Student_195,JAMB and WAEC,Yes,Good,Long waiting time,5,Extra lesson,nan,Procrastination,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Biology'],100-300,2022,178
+Student_196,JAMB and WAEC,Yes,Average,Time management,4,nan,nan,Poor Time management,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2021,288
+Student_197,JAMB and WAEC,No,Bad,Long waiting time, ,nan,nan,Procrastination,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2021,248
+Student_198,JAMB and WAEC,Yes,Good,nan,4,Extra lesson,Positive & Negative,nan,I study with a partner,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2022,154
+Student_199,WAEC,Yes,Average,Long waiting time, ,Counseling,nan,nan,I followed a routine,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],300-500,2023,248
+Student_200,WAEC,Yes,Good,Fear,3,nan,nan,Inadequate preparation,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],300-500,2024,208
+Student_201,WAEC,Yes,nan,Fear, ,nan,nan,Inadequate preparation,I practice with past questions,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,217
+Student_202,JAMB and WAEC,Yes,Bad,Long waiting time,3,Accountability partners,nan,External issues,I practice with past questions,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2022,208
+Student_203,JAMB,Yes,nan,Anxiety, ,Strict supervision,nan,Inadequate preparation,I had many mock exams,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2023,161
+Student_204,JAMB and WAEC,No,Bad,Fear,5,nan,nan,Procrastination,I followed a routine,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],100-300,2022,234
+Student_205,JAMB,No,Good,Long waiting time,3,Moral Support,nan,Inadequate preparation,I followed a routine,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2024,212
+Student_206,JAMB,Yes,Good,Anxiety,5,Extra lesson,Negative,Procrastination,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,255
+Student_207,JAMB and WAEC,Yes,nan,Fear,5,Extra lesson,Positive,External issues,I attend extra classes,Biology,Science,['English' 'Biology' 'Physics' 'Chemistry'],100-300,2021,185
+Student_208,JAMB,Yes,nan,nan,3,Extra lesson,Positive,External issues,I had many mock exams,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],300-500,2023,268
+Student_209,JAMB,Yes,Bad,Long waiting time, ,Moral Support,nan,nan,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2023,231
+Student_210,WAEC,Yes,Average,nan,3,nan,nan,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],100-300,2021,257
+Student_211,JAMB and WAEC,Yes,nan,nan,1,Strict supervision,Positive & Negative,nan,I followed a routine,Government,Art,['English' 'Government' 'CRS' 'History'],"1,000 Upwards ",2022,279
+Student_212,WAEC,Yes,Bad,Lack of Finance,4,Moral Support,Negative,nan,I study with a partner,Literature in English,Art,['English' 'CRS' 'Literature in English' 'Government'],100-300,2024,231
+Student_213,WAEC,No,Bad,Lack of time due to chores/work,3,nan,nan,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2021,220
+Student_214,JAMB and WAEC,Yes,Bad,Subject difficulty,4,Moral Support,Positive & Negative,Poor Time management,I study with a partner,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2023,183
+Student_215,WAEC,No,Bad,Other commitments,3,Strict supervision,nan,Procrastination,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2022,150
+Student_216,JAMB,Yes,nan,Anxiety,3,nan,Positive,nan,I followed a routine,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2022,247
+Student_217,JAMB,Yes,nan,nan, ,Strict supervision,nan,External issues,I focus on weak areas,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2023,239
+Student_218,WAEC,No,Bad,Time management,3,Mock exams,nan,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2020,228
+Student_219,JAMB and WAEC,Yes,nan,Anxiety, ,Mock exams,nan,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],0-100,2023,150
+Student_220,JAMB,Yes,Average,Subject difficulty,3,Extra lesson,Negative,Procrastination,I followed a routine,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],"500-1,000",2024,292
+Student_221,JAMB and WAEC,No,Bad,Anxiety,5,Extra lesson,nan,nan,I practice with past questions,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2022,243
+Student_222,JAMB,Yes,Bad,Lack of Finance,4,nan,Positive,nan,I review my notes daily,Government,Art,['English' 'Government' 'CRS' 'History'],100-300,2022,218
+Student_223,WAEC,Yes,Good,No guardian/supervisor,5,Extra lesson,Negative,nan,I had many mock exams,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],0-100,2020,243
+Student_224,JAMB,No,Average,Subject difficulty,4,Extra lesson,Positive,Procrastination,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2020,195
+Student_225,JAMB,No,Bad,Technical issues,4,Extra lesson,nan,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],100-300,2024,194
+Student_226,JAMB,Yes,Bad,Subject difficulty,4,Extra lesson,nan,nan,I put away other commitments,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2022,285
+Student_227,WAEC,Yes,Bad,Long waiting time,3,Accountability partners,Positive & Negative,Poor Time management,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2020,320
+Student_228,WAEC,Yes,Bad,Long waiting time,4,Accountability partners,nan,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2024,221
+Student_229,WAEC,Yes,Bad,Fear,3,Mock exams,Positive,Procrastination,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2021,185
+Student_230,JAMB and WAEC,Yes,Good,Long waiting time,4,Counseling,nan,Procrastination,I practice with past questions,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2022,300
+Student_231,JAMB,No,Average,Time management,3,nan,nan,Procrastination,I study with a partner,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2024,265
+Student_232,WAEC,Yes,Average,Long waiting time,3,Counseling,Positive,Procrastination,I focus on weak areas,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2021,181
+Student_233,WAEC,No,Good,Fear,3,Strict supervision,nan,nan,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2023,188
+Student_234,WAEC,No,Average,Anxiety, ,Strict supervision,nan,Poor Time management,I had many mock exams,Literature in English,Art,['English' 'CRS' 'Government' 'Literature in English'],"1,000 Upwards ",2022,320
+Student_235,WAEC,Yes,nan,Fear,4,nan,nan,Poor Time management,I study with a partner,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,226
+Student_236,JAMB,Yes,Bad,Other commitments,2,Extra lesson,Positive & Negative,Poor Time management,I study with a partner,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],"500-1,000",2022,254
+Student_237,JAMB,Yes,Bad,Technical issues,4,Strict supervision,Positive & Negative,nan,I attend extra classes,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2023,213
+Student_238,JAMB,No,Bad,Subject difficulty,3,Strict supervision,nan,Inadequate preparation,I review my notes daily,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],100-300,2020,223
+Student_239,JAMB and WAEC,Yes,Good,Long waiting time,5,Strict supervision,Positive & Negative,nan,I had many mock exams,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],100-300,2024,247
+Student_240,JAMB and WAEC,Yes,Bad,Fear, ,Extra lesson,Negative,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],"1,000 Upwards ",2022,290
+Student_241,WAEC,No,nan,Anxiety,5,Moral Support,nan,Inadequate preparation,I had many mock exams,History,Art,['English' 'Literature in English' 'CRS' 'History'],0-100,2022,209
+Student_242,WAEC,No,Average,Lack of Finance,2,Mock exams,Positive,External issues,I had many mock exams,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2021,243
+Student_243,JAMB,No,Good,Fear,3,Strict supervision,nan,Inadequate preparation,I had many mock exams,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],300-500,2021,239
+Student_244,WAEC,No,nan,Fear,5,Strict supervision,Negative,nan,I followed a routine,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2024,154
+Student_245,WAEC,No,nan,Anxiety,3,Mock exams,Positive,nan,I had many mock exams,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2020,186
+Student_246,JAMB and WAEC,No,Good,Fear,5,Mock exams,nan,nan,I focus on weak areas,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],100-300,2024,213
+Student_247,JAMB,Yes,Average,Long waiting time, ,Extra lesson,nan,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2023,250
+Student_248,JAMB,Yes,nan,Anxiety, ,Strict supervision,nan,Procrastination,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2021,256
+Student_249,JAMB,Yes,Good,No guardian/supervisor,4,Strict supervision,Negative,External issues,I attend extra classes,Chemistry,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2022,159
+Student_250,WAEC,Yes,Bad,Subject difficulty,3,Extra lesson,Positive,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2023,211
+Student_251,WAEC,No,Bad,Lack of Finance,3,nan,nan,nan,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2021,251
+Student_252,JAMB,No,Average,Long waiting time,4,nan,Positive,Procrastination,I study with a partner,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],100-300,2023,202
+Student_253,JAMB,Yes,Bad,Time management,2,Strict supervision,nan,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2022,235
+Student_254,JAMB and WAEC,Yes,Good,Lack of Finance,5,Extra lesson,nan,nan,I review my notes daily,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2024,158
+Student_255,JAMB,No,Bad,Fear, ,Extra lesson,Positive & Negative,Lack of planning,I study with a partner,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2022,250
+Student_256,JAMB,No,Average,nan, ,Counseling,nan,Procrastination,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2022,263
+Student_257,JAMB and WAEC,Yes,nan,Technical issues,5,nan,Positive,Inadequate preparation,I focus on weak areas,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],"1,000 Upwards ",2020,291
+Student_258,WAEC,Yes,Good,Time management,5,Strict supervision,nan,nan,I attend extra classes,Government,Art,['English' 'CRS' 'Government' 'Literature in English'],"500-1,000",2022,266
+Student_259,JAMB,Yes,Bad,nan,4,Strict supervision,Negative,Procrastination,I review my notes daily,Maths,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2022,269
+Student_260,JAMB,No,nan,nan,4,Mock exams,Positive,Poor Time management,I study with a partner,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],300-500,2022,259
+Student_261,WAEC,No,Bad,Anxiety,3,Extra lesson,Positive & Negative,Poor Time management,I had many mock exams,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2024,190
+Student_262,WAEC,Yes,Average,Anxiety,2,Extra lesson,nan,Lack of planning,I had many mock exams,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],0-100,2021,237
+Student_263,WAEC,No,nan,Anxiety,5,nan,Positive & Negative,Procrastination,I followed a routine,Chemistry,Science,['English' 'Physics' 'Biology' 'Chemistry'],0-100,2020,150
+Student_264,WAEC,Yes,Bad,Lack of Finance,2,Extra lesson,nan,External issues,I attend extra classes,CRS,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2020,219
+Student_265,JAMB,No,Average,Lack of Finance,4,Extra lesson,Positive,Procrastination,I had many mock exams,CRS,Art,['English' 'CRS' 'Government' 'Literature in English'],100-300,2021,222
+Student_266,JAMB,No,Good,nan,3,Accountability partners,Positive,Inadequate preparation,Used additional resources,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],300-500,2024,211
+Student_267,JAMB,No,Average,Time management,5,Extra lesson,nan,Poor Time management,I focus on weak areas,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2023,295
+Student_268,JAMB,Yes,Bad,Subject difficulty,4,Counseling,nan,nan,I practice with past questions,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2022,219
+Student_269,JAMB and WAEC,Yes,Average,Time management,5,Extra lesson,nan,Lack of planning,I study with a partner,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2022,164
+Student_270,JAMB and WAEC,Yes,Average,Time management,5,nan,nan,Poor Time management,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2022,237
+Student_271,JAMB,Yes,Good,Fear,5,Mock exams,Positive & Negative,Procrastination,I followed a routine,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],300-500,2024,218
+Student_272,JAMB and WAEC,No,Good,Lack of time due to chores/work, ,nan,nan,Lack of planning,I review my notes daily,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2022,171
+Student_273,JAMB and WAEC,No,nan,Anxiety, ,Extra lesson,nan,External issues,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2021,201
+Student_274,WAEC,Yes,Bad,Lack of time due to chores/work,3,Counseling,Positive,Inadequate preparation,I had many mock exams,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],0-100,2021,173
+Student_275,JAMB and WAEC,Yes,Average,nan,5,Mock exams,Positive,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],"500-1,000",2024,296
+Student_276,JAMB,Yes,Good,Fear,4,nan,nan,nan,I review my notes daily,Maths,Science,['English' 'Physics' 'Maths' 'Chemistry'],0-100,2024,200
+Student_277,JAMB and WAEC,Yes,Average,Technical issues,5,Moral Support,Negative,Inadequate preparation,I review my notes daily,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],100-300,2022,221
+Student_278,JAMB and WAEC,Yes,Average,Time management,4,Moral Support,Positive,Poor Time management,I followed a routine,Government,Art,['English' 'Government' 'History' 'CRS'],100-300,2024,245
+Student_279,WAEC,No,Bad,Other commitments,3,Counseling,nan,External issues,I review my notes daily,Biology,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2020,188
+Student_280,WAEC,Yes,nan,Anxiety,4,Strict supervision,nan,nan,I practice with past questions,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2024,218
+Student_281,WAEC,Yes,nan,Anxiety,2,nan,nan,Inadequate preparation,I had many mock exams,History,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2022,176
+Student_282,JAMB,Yes,Good,Anxiety,4,nan,nan,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],300-500,2022,218
+Student_283,JAMB,Yes,Bad,Anxiety,3,nan,nan,Procrastination,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"500-1,000",2022,288
+Student_284,WAEC,No,Good,Lack of Finance,2,Accountability partners,nan,Procrastination,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2020,212
+Student_285,JAMB,Yes,Bad,Long waiting time,2,Mock exams,nan,Poor Time management,I review my notes daily,CRS,Art,['English' 'CRS' 'Government' 'Literature in English'],0-100,2021,187
+Student_286,WAEC,Yes,Bad,Fear,5,Strict supervision,nan,nan,I followed a routine,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2020,246
+Student_287,WAEC,Yes,nan,Long waiting time,3,nan,Positive & Negative,nan,I review my notes daily,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2021,229
+Student_288,JAMB,Yes,Bad,Time management,2,nan,nan,Procrastination,I practice with past questions,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],100-300,2024,170
+Student_289,JAMB,Yes,Bad,Technical issues,1,Accountability partners,nan,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2021,210
+Student_290,JAMB and WAEC,No,Average,Time management, ,Strict supervision,nan,Inadequate preparation,I followed a routine,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2023,177
+Student_291,JAMB and WAEC,Yes,Average,Time management,4,nan,nan,Procrastination,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2022,216
+Student_292,WAEC,No,Good,Anxiety,3,Strict supervision,nan,Lack of planning,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2021,245
+Student_293,JAMB and WAEC,Yes,Average,Time management,1,Strict supervision,nan,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Maths' 'Physics' 'Chemistry'],"500-1,000",2020,236
+Student_294,WAEC,No,Good,Lack of Finance, ,Mock exams,Positive,Poor Time management,I followed a routine,Physics,Science,['English' 'Chemistry' 'Maths' 'Physics'],100-300,2021,209
+Student_295,JAMB,Yes,Average,Anxiety,1,Counseling,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2020,205
+Student_296,JAMB and WAEC,No,Good,No guardian/supervisor,5,Mock exams,nan,Inadequate preparation,I focus on weak areas,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],100-300,2024,195
+Student_297,JAMB and WAEC,Yes,nan,No guardian/supervisor,3,Mock exams,Negative,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],"1,000 Upwards ",2024,268
+Student_298,WAEC,Yes,Bad,Fear,3,Strict supervision,nan,Lack of planning,I review my notes daily,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],"500-1,000",2021,273
+Student_299,JAMB and WAEC,Yes,Bad,Long waiting time,4,Counseling,nan,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],100-300,2021,260
+Student_300,JAMB,No,Bad,Other commitments, ,Mock exams,nan,Procrastination,I followed a routine,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],"500-1,000",2022,229
+Student_301,JAMB and WAEC,Yes,Bad,Time management,3,nan,Positive,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],"1,000 Upwards ",2023,306
+Student_302,JAMB,Yes,Average,Fear,5,nan,nan,Inadequate preparation,I focus on weak areas,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2023,238
+Student_303,JAMB,No,nan,Long waiting time,2,Extra lesson,Negative,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Physics' 'Biology' 'Chemistry'],"500-1,000",2022,246
+Student_304,JAMB and WAEC,Yes,Average,Anxiety,1,Accountability partners,Positive,Procrastination,I review my notes daily,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],0-100,2024,223
+Student_305,JAMB,Yes,Average,Long waiting time, ,Extra lesson,Positive,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Chemistry' 'Maths' 'Physics'],100-300,2022,235
+Student_306,JAMB and WAEC,Yes,Bad,nan,3,Mock exams,nan,Poor Time management,I had many mock exams,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],"500-1,000",2024,231
+Student_307,WAEC,Yes,Bad,nan,4,nan,Positive & Negative,Inadequate preparation,I study with a partner,Literature in English,Art,['English' 'Literature in English' 'History' 'CRS'],100-300,2023,213
+Student_308,JAMB,Yes,nan,No guardian/supervisor,4,Mock exams,Positive,nan,I followed a routine,Government,Art,['English' 'Government' 'History' 'Literature in English'],300-500,2024,251
+Student_309,JAMB,No,Average,Lack of Finance,5,Counseling,Positive,nan,I review my notes daily,CRS,Art,['English' 'Government' 'CRS' 'History'],"500-1,000",2022,276
+Student_310,WAEC,Yes,Average,Long waiting time,2,Strict supervision,Positive,Inadequate preparation,I followed a routine,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],300-500,2022,208
+Student_311,JAMB and WAEC,No,nan,Fear,3,Extra lesson,Positive & Negative,External issues,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2023,247
+Student_312,JAMB,No,Average,Lack of Finance,4,nan,nan,Inadequate preparation,I study with a partner,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2020,175
+Student_313,JAMB,Yes,Average,Fear, ,Strict supervision,Positive,nan,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,222
+Student_314,WAEC,Yes,Good,Long waiting time,4,nan,nan,Inadequate preparation,I study with a partner,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2020,155
+Student_315,WAEC,Yes,nan,Time management,3,nan,Positive & Negative,Lack of planning,I attend extra classes,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2024,276
+Student_316,JAMB,Yes,nan,Long waiting time,4,Mock exams,Positive,Poor Time management,I review my notes daily,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],100-300,2022,239
+Student_317,WAEC,Yes,Good,Fear,2,Counseling,Positive,nan,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2022,201
+Student_318,WAEC,Yes,Average,Anxiety,5,Strict supervision,Negative,nan,I followed a routine,History,Art,['English' 'Government' 'History' 'CRS'],300-500,2022,262
+Student_319,JAMB,Yes,Bad,Anxiety,4,Accountability partners,nan,Inadequate preparation,I put away other commitments,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],"500-1,000",2022,224
+Student_320,JAMB and WAEC,Yes,nan,Anxiety,4,nan,nan,Lack of planning,I followed a routine,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2022,247
+Student_321,JAMB,No,Good,Fear,5,nan,Positive & Negative,nan,I followed a routine,Government,Art,['English' 'History' 'Government' 'Literature in English'],300-500,2020,242
+Student_322,WAEC,Yes,nan,nan, ,Moral Support,nan,nan,I attend extra classes,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2020,202
+Student_323,WAEC,No,Average,Time management,3,nan,nan,nan,I practice with past questions,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,196
+Student_324,JAMB,No,Good,nan,1,nan,Negative,Poor Time management,I had many mock exams,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2023,206
+Student_325,JAMB and WAEC,Yes,Good,Anxiety,4,nan,nan,nan,I practice with past questions,Chemistry,Science,['English' 'Maths' 'Biology' 'Chemistry'],300-500,2023,216
+Student_326,JAMB,No,Good,Anxiety,2,Mock exams,nan,Poor Time management,I put away other commitments,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2022,209
+Student_327,WAEC,No,nan,Fear, ,Strict supervision,nan,Poor Time management,I followed a routine,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2023,261
+Student_328,WAEC,Yes,Bad,Time management,1,Moral Support,Positive & Negative,External issues,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2021,180
+Student_329,WAEC,Yes,nan,Other commitments,2,Mock exams,Positive & Negative,External issues,I attend extra classes,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2020,253
+Student_330,WAEC,No,Average,Long waiting time,1,Counseling,nan,nan,I followed a routine,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2023,150
+Student_331,JAMB and WAEC,Yes,nan,Time management,3,Extra lesson,nan,Procrastination,I review my notes daily,Government,Art,['English' 'Government' 'History' 'CRS'],100-300,2024,214
+Student_332,JAMB and WAEC,No,nan,No guardian/supervisor,4,nan,nan,nan,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2020,265
+Student_333,JAMB,Yes,Bad,Anxiety,5,Mock exams,Positive,nan,I attend extra classes,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2022,206
+Student_334,WAEC,Yes,Average,Lack of Finance, ,Strict supervision,Negative,nan,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2024,163
+Student_335,JAMB,No,Average,Lack of Finance,3,nan,nan,Lack of planning,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2022,256
+Student_336,JAMB and WAEC,Yes,nan,Fear,3,Mock exams,nan,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2021,185
+Student_337,WAEC,No,Average,Long waiting time,4,Mock exams,nan,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'CRS' 'Government'],100-300,2021,213
+Student_338,JAMB,Yes,Average,Long waiting time,4,Strict supervision,nan,External issues,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'CRS' 'History'],100-300,2022,184
+Student_339,WAEC,Yes,Good,Fear,5,Strict supervision,nan,Procrastination,I attend extra classes,Biology,Science,['English' 'Maths' 'Biology' 'Chemistry'],"500-1,000",2022,296
+Student_340,JAMB,No,Good,Time management,4,Moral Support,nan,nan,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2024,198
+Student_341,JAMB,Yes,nan,Time management,1,Extra lesson,Positive & Negative,Lack of planning,I had many mock exams,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],300-500,2021,276
+Student_342,WAEC,Yes,Average,Lack of Finance,5,Moral Support,Positive,Procrastination,I practice with past questions,Physics,Science,['English' 'Biology' 'Chemistry' 'Physics'],100-300,2023,224
+Student_343,JAMB and WAEC,No,Bad,Subject difficulty,5,Strict supervision,Negative,Inadequate preparation,I focus on weak areas,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],100-300,2021,262
+Student_344,WAEC,Yes,Average,Time management,5,Mock exams,Positive & Negative,Inadequate preparation,I attend extra classes,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2023,308
+Student_345,WAEC,Yes,Good,nan,3,Counseling,Negative,Poor Time management,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],0-100,2020,224
+Student_346,JAMB,Yes,Good,Fear,3,Moral Support,Negative,nan,I focus on weak areas,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],0-100,2021,243
+Student_347,WAEC,Yes,Average,Fear, ,Strict supervision,Positive,Inadequate preparation,I had many mock exams,CRS,Art,['English' 'Literature in English' 'CRS' 'History'],0-100,2023,202
+Student_348,WAEC,No,nan,Time management,4,Strict supervision,Positive,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Biology' 'Maths' 'Chemistry'],"500-1,000",2022,268
+Student_349,JAMB and WAEC,No,Good,nan,4,Moral Support,nan,External issues,Used additional resources,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],0-100,2022,166
+Student_350,JAMB and WAEC,Yes,Bad,Lack of Finance,4,nan,Negative,Procrastination,I followed a routine,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2023,241
+Student_351,JAMB,Yes,nan,nan,2,nan,Negative,Poor Time management,I review my notes daily,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],0-100,2023,150
+Student_352,JAMB,Yes,Average,Fear, ,Moral Support,Positive,nan,Used additional resources,Chemistry,Science,['English' 'Biology' 'Maths' 'Chemistry'],"500-1,000",2021,265
+Student_353,JAMB and WAEC,No,Bad,nan,2,Extra lesson,nan,Inadequate preparation,I study with a partner,Government,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2022,176
+Student_354,WAEC,Yes,Bad,Fear,4,Mock exams,Positive,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"1,000 Upwards ",2022,313
+Student_355,JAMB,No,nan,Anxiety,3,Mock exams,Positive,Procrastination,I study with a partner,CRS,Art,['English' 'CRS' 'History' 'Literature in English'],100-300,2022,235
+Student_356,JAMB and WAEC,No,Good,Time management,4,Extra lesson,Negative,Poor Time management,I review my notes daily,CRS,Art,['English' 'Literature in English' 'History' 'CRS'],0-100,2024,154
+Student_357,JAMB,Yes,Bad,Time management,3,nan,nan,External issues,I review my notes daily,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],0-100,2022,207
+Student_358,WAEC,Yes,Bad,Time management,3,Strict supervision,Negative,nan,I study with a partner,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2021,194
+Student_359,WAEC,No,nan,Time management,4,Extra lesson,nan,External issues,I review my notes daily,Government,Art,['English' 'Government' 'Literature in English' 'History'],100-300,2021,184
+Student_360,WAEC,Yes,Average,Other commitments,4,Accountability partners,Positive & Negative,Lack of planning,Used additional resources,Biology,Science,['English' 'Biology' 'Physics' 'Chemistry'],300-500,2021,280
+Student_361,JAMB,Yes,Average,Subject difficulty,3,Mock exams,Positive & Negative,nan,I had many mock exams,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Biology'],100-300,2023,183
+Student_362,JAMB and WAEC,Yes,Good,Lack of time due to chores/work, ,Strict supervision,nan,Inadequate preparation,I practice with past questions,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2022,163
+Student_363,WAEC,Yes,nan,Time management,3,Mock exams,nan,Poor Time management,I had many mock exams,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2022,150
+Student_364,JAMB,No,nan,No guardian/supervisor,3,Moral Support,Positive & Negative,External issues,I practice with past questions,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2020,267
+Student_365,WAEC,No,Good,Time management,4,Counseling,Positive,Inadequate preparation,I attend extra classes,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],100-300,2024,245
+Student_366,WAEC,Yes,Bad,Anxiety,3,Strict supervision,nan,nan,I followed a routine,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],100-300,2024,245
+Student_367,JAMB and WAEC,Yes,Average,Technical issues,4,nan,Positive,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],"500-1,000",2024,241
+Student_368,JAMB,Yes,Average,Fear,1,nan,nan,nan,Used additional resources,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],100-300,2022,187
+Student_369,JAMB,No,nan,Long waiting time,3,Mock exams,Positive & Negative,Poor Time management,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2024,232
+Student_370,JAMB,Yes,nan,Fear,3,Mock exams,Negative,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],"500-1,000",2022,248
+Student_371,JAMB and WAEC,Yes,Bad,Fear,5,Extra lesson,Negative,External issues,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2020,222
+Student_372,WAEC,No,Bad,Other commitments, ,nan,nan,Poor Time management,I had many mock exams,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2023,166
+Student_373,JAMB,Yes,Average,Anxiety, ,nan,nan,nan,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],"1,000 Upwards ",2022,320
+Student_374,JAMB,No,nan,nan,3,Mock exams,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2023,192
+Student_375,JAMB and WAEC,Yes,Good,Long waiting time,3,Strict supervision,nan,nan,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2022,184
+Student_376,JAMB,No,Bad,nan,3,nan,Positive,Poor Time management,I practice with past questions,Literature in English,Art,['English' 'Literature in English' 'Government' 'CRS'],"1,000 Upwards ",2024,235
+Student_377,JAMB and WAEC,Yes,Average,Long waiting time,3,nan,nan,nan,I review my notes daily,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],300-500,2022,217
+Student_378,JAMB and WAEC,Yes,nan,Subject difficulty,4,Accountability partners,nan,Procrastination,I had many mock exams,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],300-500,2021,244
+Student_379,JAMB and WAEC,No,Bad,Fear,4,Extra lesson,nan,Procrastination,Used additional resources,Literature in English,Art,['English' 'Literature in English' 'History' 'CRS'],100-300,2021,208
+Student_380,JAMB,Yes,Bad,Long waiting time,3,Moral Support,Positive,Poor Time management,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],100-300,2024,244
+Student_381,WAEC,No,Bad,Anxiety,2,nan,nan,Lack of planning,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2021,242
+Student_382,JAMB,Yes,Bad,Technical issues,3,Strict supervision,nan,nan,I review my notes daily,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],"1,000 Upwards ",2023,247
+Student_383,JAMB,No,Bad,No guardian/supervisor, ,nan,nan,External issues,I review my notes daily,Maths,Science,['English' 'Maths' 'Chemistry' 'Biology'],300-500,2022,219
+Student_384,JAMB and WAEC,No,Average,Time management,5,Counseling,nan,nan,I review my notes daily,CRS,Art,['English' 'History' 'Government' 'CRS'],100-300,2023,199
+Student_385,JAMB and WAEC,Yes,Bad,Other commitments,3,Mock exams,nan,Inadequate preparation,I study with a partner,Maths,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2020,203
+Student_386,JAMB,No,Average,nan,5,Extra lesson,nan,Procrastination,I followed a routine,History,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2023,173
+Student_387,WAEC,Yes,Good,Time management,2,Mock exams,nan,Inadequate preparation,I followed a routine,Biology,Science,['English' 'Biology' 'Physics' 'Chemistry'],300-500,2021,233
+Student_388,JAMB,Yes,nan,Fear,2,Extra lesson,Positive & Negative,Poor Time management,I review my notes daily,History,Art,['English' 'History' 'Government' 'Literature in English'],300-500,2022,262
+Student_389,JAMB and WAEC,Yes,Bad,No guardian/supervisor,5,nan,Positive & Negative,nan,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2024,255
+Student_390,JAMB and WAEC,Yes,Good,Time management,5,Mock exams,nan,Procrastination,I review my notes daily,History,Art,['English' 'History' 'Government' 'Literature in English'],"1,000 Upwards ",2021,279
+Student_391,WAEC,Yes,Bad,Fear,1,Counseling,nan,Poor Time management,I had many mock exams,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2023,231
+Student_392,JAMB and WAEC,Yes,Bad,Long waiting time,2,Counseling,Positive,Inadequate preparation,I had many mock exams,History,Art,['English' 'Government' 'CRS' 'History'],100-300,2023,223
+Student_393,JAMB and WAEC,No,Bad,Anxiety, ,Mock exams,Positive,Poor Time management,I followed a routine,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],100-300,2024,233
+Student_394,JAMB and WAEC,No,Average,Time management,4,nan,nan,Lack of planning,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2022,206
+Student_395,WAEC,Yes,Average,Time management,4,Extra lesson,nan,Poor Time management,I focus on weak areas,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2022,297
+Student_396,JAMB and WAEC,Yes,Bad,Technical issues,5,nan,Positive,Inadequate preparation,I focus on weak areas,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2021,236
+Student_397,JAMB,No,nan,Long waiting time,3,nan,Negative,Poor Time management,I had many mock exams,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],100-300,2020,273
+Student_398,JAMB,No,Average,Anxiety,3,Strict supervision,nan,Lack of planning,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],100-300,2020,248
+Student_399,WAEC,No,Good,nan,3,Strict supervision,nan,Procrastination,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2020,229
+Student_400,WAEC,Yes,Average,Fear, ,Counseling,Positive & Negative,Lack of planning,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,182
+Student_401,WAEC,Yes,Good,Time management,3,nan,nan,Inadequate preparation,I had many mock exams,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2020,175
+Student_402,JAMB,No,Good,Fear,5,nan,Negative,nan,I attend extra classes,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],100-300,2023,198
+Student_403,JAMB and WAEC,No,Good,Anxiety,5,nan,nan,Inadequate preparation,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,169
+Student_404,JAMB and WAEC,Yes,Average,Time management,2,nan,nan,Procrastination,I review my notes daily,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],"1,000 Upwards ",2024,289
+Student_405,WAEC,No,Average,Time management,4,Extra lesson,Negative,Procrastination,I followed a routine,Literature in English,Art,['English' 'History' 'Government' 'Literature in English'],100-300,2020,224
+Student_406,JAMB and WAEC,No,Bad,Anxiety,4,Extra lesson,nan,nan,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2024,176
+Student_407,WAEC,Yes,Bad,Time management,4,Strict supervision,Negative,Inadequate preparation,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'Government' 'CRS'],0-100,2023,200
+Student_408,WAEC,No,Average,Long waiting time,5,Moral Support,Positive & Negative,Procrastination,I review my notes daily,Physics,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2020,226
+Student_409,JAMB,Yes,Bad,Anxiety,5,Moral Support,Positive,Inadequate preparation,I followed a routine,History,Art,['English' 'CRS' 'Government' 'History'],0-100,2020,150
+Student_410,WAEC,No,Bad,Long waiting time,3,Counseling,nan,Poor Time management,I attend extra classes,Biology,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2022,212
+Student_411,JAMB,Yes,Good,Time management,1,nan,Positive,nan,I focus on weak areas,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2022,201
+Student_412,JAMB and WAEC,No,Good,Anxiety,3,Counseling,nan,nan,I review my notes daily,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"500-1,000",2024,289
+Student_413,JAMB and WAEC,Yes,nan,Anxiety,4,Extra lesson,nan,nan,I had many mock exams,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Biology'],100-300,2022,249
+Student_414,JAMB,Yes,Good,nan,4,nan,Negative,Lack of planning,I review my notes daily,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2022,181
+Student_415,WAEC,No,Bad,Fear,5,nan,nan,Inadequate preparation,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2023,259
+Student_416,JAMB and WAEC,No,Bad,Anxiety,5,Extra lesson,Positive & Negative,Lack of planning,I review my notes daily,History,Art,['English' 'Government' 'CRS' 'History'],0-100,2024,192
+Student_417,JAMB,Yes,Average,Long waiting time,3,nan,Positive,Inadequate preparation,I practice with past questions,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2022,150
+Student_418,JAMB and WAEC,Yes,Bad,Time management,4,Extra lesson,Positive & Negative,nan,I focus on weak areas,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2022,221
+Student_419,JAMB,No,Good,nan,3,nan,Negative,External issues,I review my notes daily,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2023,198
+Student_420,WAEC,No,Bad,Time management,3,Moral Support,Positive,Inadequate preparation,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2022,188
+Student_421,JAMB,Yes,Average,Fear,3,Counseling,Negative,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],0-100,2024,204
+Student_422,JAMB,No,Average,Time management,3,Extra lesson,nan,Inadequate preparation,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2022,290
+Student_423,WAEC,Yes,Bad,Fear,3,Strict supervision,nan,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2020,294
+Student_424,WAEC,No,Bad,Fear,5,nan,nan,Inadequate preparation,I had many mock exams,CRS,Art,['English' 'Government' 'Literature in English' 'CRS'],300-500,2023,226
+Student_425,JAMB and WAEC,Yes,Average,Anxiety,4,Accountability partners,nan,Poor Time management,I study with a partner,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2022,221
+Student_426,JAMB and WAEC,Yes,nan,Time management,3,Moral Support,nan,Poor Time management,I followed a routine,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2022,229
+Student_427,JAMB,Yes,Bad,Technical issues,5,Strict supervision,nan,Inadequate preparation,I study with a partner,Biology,Science,['English' 'Physics' 'Chemistry' 'Biology'],300-500,2023,225
+Student_428,JAMB,Yes,Bad,Long waiting time,1,nan,Negative,Procrastination,I focus on weak areas,CRS,Art,['English' 'History' 'Literature in English' 'CRS'],0-100,2022,181
+Student_429,JAMB,No,Good,Technical issues,1,nan,Positive,nan,I attend extra classes,History,Art,['English' 'History' 'Government' 'CRS'],"1,000 Upwards ",2024,302
+Student_430,WAEC,Yes,Good,Fear,4,nan,nan,External issues,I attend extra classes,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2021,209
+Student_431,WAEC,No,Average,Long waiting time,3,nan,nan,nan,I followed a routine,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,278
+Student_432,WAEC,No,nan,Fear,3,nan,nan,nan,I practice with past questions,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2021,238
+Student_433,WAEC,Yes,Average,nan,5,Mock exams,nan,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2023,226
+Student_434,JAMB,Yes,Good,Technical issues,3,Extra lesson,Negative,nan,I followed a routine,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2023,211
+Student_435,WAEC,Yes,Bad,nan,3,Moral Support,Positive,Poor Time management,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2024,228
+Student_436,JAMB,Yes,Good,Long waiting time,3,nan,Positive & Negative,nan,I followed a routine,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],300-500,2020,187
+Student_437,WAEC,No,nan,Fear,2,nan,nan,nan,I had many mock exams,History,Art,['English' 'Government' 'CRS' 'History'],0-100,2023,192
+Student_438,JAMB and WAEC,Yes,Average,Anxiety,3,nan,Positive,Procrastination,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2022,250
+Student_439,WAEC,No,Good,Fear,4,Counseling,nan,Procrastination,I followed a routine,Government,Art,['English' 'History' 'CRS' 'Government'],300-500,2023,213
+Student_440,JAMB and WAEC,No,nan,Other commitments,3,nan,nan,External issues,I had many mock exams,Biology,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2024,166
+Student_441,JAMB,Yes,Good,Time management,5,Mock exams,Positive,Poor Time management,I practice with past questions,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2021,183
+Student_442,WAEC,Yes,Good,Lack of time due to chores/work,4,Mock exams,Positive & Negative,Inadequate preparation,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],100-300,2021,222
+Student_443,JAMB,No,nan,Time management, ,Moral Support,Positive & Negative,Procrastination,I attend extra classes,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],100-300,2022,225
+Student_444,WAEC,Yes,Good,Other commitments,3,Mock exams,Positive,Lack of planning,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2021,289
+Student_445,JAMB,Yes,Bad,Time management,3,nan,nan,nan,I had many mock exams,Literature in English,Art,['English' 'CRS' 'Literature in English' 'Government'],0-100,2023,215
+Student_446,WAEC,No,nan,nan, ,Moral Support,nan,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],"1,000 Upwards ",2024,271
+Student_447,WAEC,Yes,Average,Time management,1,Strict supervision,nan,Poor Time management,I practice with past questions,Literature in English,Art,['English' 'CRS' 'Government' 'Literature in English'],0-100,2022,212
+Student_448,JAMB,Yes,Average,Fear,3,nan,Negative,Procrastination,I review my notes daily,History,Art,['English' 'Literature in English' 'History' 'CRS'],"500-1,000",2020,238
+Student_449,JAMB,Yes,Average,Anxiety,4,Strict supervision,Positive,Inadequate preparation,Used additional resources,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2023,224
+Student_450,JAMB,No,Bad,Anxiety,3,nan,Positive & Negative,Poor Time management,I attend extra classes,Government,Art,['English' 'History' 'CRS' 'Government'],"1,000 Upwards ",2020,271
+Student_451,WAEC,Yes,Good,No guardian/supervisor,2,nan,Positive & Negative,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,196
+Student_452,JAMB and WAEC,No,Bad,Long waiting time,5,nan,Positive & Negative,nan,I put away other commitments,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2023,255
+Student_453,JAMB and WAEC,Yes,Average,Time management,4,nan,nan,Lack of planning,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2022,243
+Student_454,JAMB,No,Bad,Time management,5,Moral Support,nan,Poor Time management,I had many mock exams,Biology,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2024,212
+Student_455,WAEC,Yes,Bad,nan,4,Counseling,nan,Inadequate preparation,I had many mock exams,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],"500-1,000",2024,244
+Student_456,JAMB,Yes,Bad,Long waiting time,5,Mock exams,Positive,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,217
+Student_457,WAEC,Yes,Good,Anxiety,5,nan,nan,Poor Time management,I focus on weak areas,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2023,266
+Student_458,JAMB and WAEC,Yes,Good,Lack of time due to chores/work,4,Moral Support,Positive,Procrastination,I attend extra classes,Maths,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2023,210
+Student_459,JAMB,Yes,nan,Fear,4,Accountability partners,Negative,nan,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2020,235
+Student_460,WAEC,Yes,Average,nan,3,Mock exams,nan,Poor Time management,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,235
+Student_461,JAMB and WAEC,Yes,Good,Other commitments,4,Moral Support,nan,Lack of planning,I focus on weak areas,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2023,238
+Student_462,WAEC,Yes,Average,nan,2,Extra lesson,nan,Poor Time management,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2020,182
+Student_463,JAMB,No,Bad,Long waiting time,3,Extra lesson,Negative,Lack of planning,I put away other commitments,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2023,263
+Student_464,JAMB and WAEC,Yes,Good,Long waiting time,3,Mock exams,nan,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2024,185
+Student_465,WAEC,No,Bad,Fear,1,nan,nan,Poor Time management,I review my notes daily,History,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2020,211
+Student_466,WAEC,No,Average,Time management,4,Moral Support,Positive,Poor Time management,I followed a routine,Biology,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2020,222
+Student_467,WAEC,No,Bad,Long waiting time,5,Strict supervision,Positive & Negative,Procrastination,I review my notes daily,History,Art,['English' 'Literature in English' 'Government' 'History'],100-300,2024,213
+Student_468,JAMB,Yes,nan,Long waiting time,5,nan,nan,Poor Time management,I followed a routine,Biology,Science,['English' 'Chemistry' 'Biology' 'Physics'],"500-1,000",2022,286
+Student_469,JAMB,Yes,Bad,Other commitments,3,nan,Positive,Inadequate preparation,I review my notes daily,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2023,193
+Student_470,WAEC,Yes,Average,Time management,3,Moral Support,nan,Inadequate preparation,Used additional resources,Government,Art,['English' 'Government' 'Literature in English' 'History'],"500-1,000",2022,222
+Student_471,JAMB and WAEC,No,Average,nan,3,Strict supervision,nan,Procrastination,I review my notes daily,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2020,259
+Student_472,WAEC,No,Good,Anxiety,3,Counseling,Negative,nan,I study with a partner,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],100-300,2022,225
+Student_473,WAEC,Yes,nan,Anxiety,5,Moral Support,nan,Lack of planning,I study with a partner,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Biology'],0-100,2023,195
+Student_474,JAMB,Yes,Bad,Subject difficulty,2,Accountability partners,nan,Poor Time management,I review my notes daily,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],"1,000 Upwards ",2022,256
+Student_475,JAMB and WAEC,No,Bad,Anxiety,4,Extra lesson,nan,nan,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'Government' 'CRS'],100-300,2022,205
+Student_476,JAMB and WAEC,Yes,nan,Anxiety,3,Accountability partners,Positive,Inadequate preparation,I focus on weak areas,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2020,224
+Student_477,WAEC,No,Bad,Long waiting time,4,Mock exams,nan,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Maths' 'Biology' 'Chemistry'],"500-1,000",2023,298
+Student_478,JAMB and WAEC,Yes,Bad,Fear,5,Mock exams,Positive & Negative,External issues,Used additional resources,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Maths'],300-500,2023,254
+Student_479,JAMB,Yes,Average,Long waiting time,2,Extra lesson,nan,Procrastination,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Biology'],300-500,2023,212
+Student_480,JAMB,No,Average,Time management,4,Moral Support,Positive,Poor Time management,I followed a routine,CRS,Art,['English' 'Literature in English' 'CRS' 'Government'],300-500,2021,257
+Student_481,WAEC,Yes,Bad,Fear,4,Extra lesson,Positive,Inadequate preparation,I focus on weak areas,History,Art,['English' 'History' 'CRS' 'Literature in English'],0-100,2023,170
+Student_482,JAMB,Yes,nan,nan,3,Mock exams,Positive,Procrastination,I focus on weak areas,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2020,176
+Student_483,JAMB and WAEC,No,Average,Anxiety,4,Counseling,nan,Poor Time management,I study with a partner,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2020,169
+Student_484,JAMB,Yes,nan,Time management, ,Mock exams,nan,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2021,216
+Student_485,JAMB,Yes,Bad,Fear,1,nan,nan,Lack of planning,I study with a partner,CRS,Art,['English' 'CRS' 'Literature in English' 'History'],"500-1,000",2024,245
+Student_486,JAMB and WAEC,No,Good,nan,3,nan,Positive & Negative,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2021,243
+Student_487,JAMB,Yes,Bad,Time management,2,Strict supervision,nan,nan,I focus on weak areas,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,210
+Student_488,JAMB,Yes,nan,Long waiting time,5,nan,nan,Procrastination,I focus on weak areas,Government,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2020,196
+Student_489,JAMB,Yes,nan,No guardian/supervisor,4,nan,Positive & Negative,Inadequate preparation,I focus on weak areas,History,Art,['English' 'History' 'CRS' 'Literature in English'],"500-1,000",2023,260
+Student_490,JAMB,Yes,Average,Fear,4,nan,Positive,Procrastination,I had many mock exams,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2024,174
+Student_491,WAEC,No,Bad,nan,5,Extra lesson,Positive,Procrastination,I focus on weak areas,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,186
+Student_492,JAMB and WAEC,Yes,nan,Long waiting time,4,nan,nan,Poor Time management,I had many mock exams,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],"500-1,000",2024,269
+Student_493,WAEC,Yes,Good,Time management,3,Moral Support,nan,Inadequate preparation,I put away other commitments,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],100-300,2023,196
+Student_494,JAMB,No,Average,Technical issues,5,Mock exams,nan,nan,I review my notes daily,Literature in English,Art,['English' 'CRS' 'History' 'Literature in English'],"500-1,000",2024,255
+Student_495,JAMB,No,Good,Fear,5,nan,nan,Poor Time management,I study with a partner,Chemistry,Science,['English' 'Biology' 'Physics' 'Chemistry'],100-300,2022,216
+Student_496,JAMB,No,Good,Time management,4,Extra lesson,Negative,Poor Time management,I review my notes daily,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],"1,000 Upwards ",2024,301
+Student_497,JAMB,No,Average,Fear,5,Accountability partners,Positive,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2023,174
+Student_498,JAMB,No,nan,Lack of Finance,4,nan,nan,Procrastination,I attend extra classes,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],"500-1,000",2022,294
+Student_499,WAEC,Yes,Bad,Subject difficulty,3,Strict supervision,nan,Lack of planning,I followed a routine,Government,Art,['English' 'Government' 'CRS' 'History'],0-100,2021,178
+Student_500,WAEC,Yes,Average,Time management,1,Accountability partners,nan,Procrastination,I attend extra classes,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2024,305
+Student_501,WAEC,Yes,Good,Time management,3,nan,Positive & Negative,nan,I put away other commitments,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2022,281
+Student_502,JAMB,Yes,Good,Anxiety,3,Strict supervision,Positive,Procrastination,I practice with past questions,Maths,Science,['English' 'Physics' 'Maths' 'Chemistry'],100-300,2024,173
+Student_503,WAEC,No,Good,Fear,4,Moral Support,Positive,nan,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"1,000 Upwards ",2022,237
+Student_504,JAMB,No,Good,Subject difficulty,3,Mock exams,Positive,Procrastination,Used additional resources,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],100-300,2022,236
+Student_505,JAMB and WAEC,Yes,nan,Time management,3,nan,Negative,Procrastination,I review my notes daily,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2020,220
+Student_506,WAEC,Yes,Bad,nan,5,Extra lesson,nan,Inadequate preparation,I review my notes daily,Biology,Science,['English' 'Physics' 'Maths' 'Biology'],100-300,2023,194
+Student_507,WAEC,Yes,nan,Long waiting time,5,Accountability partners,Negative,Procrastination,I had many mock exams,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2023,264
+Student_508,WAEC,No,Good,Long waiting time,3,Accountability partners,Negative,Inadequate preparation,I study with a partner,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2020,233
+Student_509,JAMB and WAEC,Yes,Bad,Anxiety,4,Moral Support,Positive,Lack of planning,I practice with past questions,Maths,Science,['English' 'Maths' 'Biology' 'Physics'],300-500,2023,231
+Student_510,WAEC,Yes,Bad,Technical issues,4,Accountability partners,Positive,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'History' 'Government' 'Literature in English'],100-300,2022,189
+Student_511,JAMB and WAEC,No,Good,Time management,5,Extra lesson,Positive,Lack of planning,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],"1,000 Upwards ",2024,305
+Student_512,WAEC,No,Average,Anxiety,1,Extra lesson,nan,nan,I followed a routine,CRS,Art,['English' 'CRS' 'Government' 'History'],0-100,2024,179
+Student_513,JAMB and WAEC,No,Good,Anxiety,3,nan,Negative,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],100-300,2024,223
+Student_514,WAEC,No,Bad,No guardian/supervisor, ,Mock exams,nan,Lack of planning,I focus on weak areas,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2023,275
+Student_515,WAEC,Yes,Good,Long waiting time,5,Strict supervision,Positive & Negative,Procrastination,I had many mock exams,CRS,Art,['English' 'CRS' 'Government' 'Literature in English'],0-100,2023,242
+Student_516,JAMB,No,Good,Long waiting time,4,Counseling,Negative,nan,I had many mock exams,Government,Art,['English' 'CRS' 'History' 'Government'],0-100,2024,169
+Student_517,WAEC,Yes,nan,nan,5,nan,nan,External issues,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Maths' 'Chemistry'],100-300,2020,264
+Student_518,JAMB,Yes,Bad,Time management,4,Accountability partners,Negative,Poor Time management,Used additional resources,CRS,Art,['English' 'History' 'CRS' 'Government'],300-500,2022,215
+Student_519,JAMB,Yes,nan,Lack of Finance,3,Strict supervision,nan,Inadequate preparation,I attend extra classes,Government,Art,['English' 'CRS' 'History' 'Government'],300-500,2020,263
+Student_520,JAMB,Yes,nan,Time management,3,nan,Positive & Negative,Poor Time management,Used additional resources,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],100-300,2024,222
+Student_521,JAMB and WAEC,No,Good,Long waiting time,3,Moral Support,Positive,Procrastination,I had many mock exams,CRS,Art,['English' 'Government' 'Literature in English' 'CRS'],"500-1,000",2023,257
+Student_522,JAMB and WAEC,Yes,Average,Time management,4,nan,Positive,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"500-1,000",2022,246
+Student_523,JAMB,Yes,Average,Time management,3,nan,nan,Poor Time management,I focus on weak areas,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],300-500,2024,246
+Student_524,JAMB,No,Bad,Time management,5,Mock exams,Positive,Procrastination,I review my notes daily,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],300-500,2022,202
+Student_525,WAEC,Yes,Average,No guardian/supervisor,4,Extra lesson,nan,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],300-500,2021,265
+Student_526,WAEC,No,Average,Fear,3,Extra lesson,nan,Inadequate preparation,I study with a partner,Government,Art,['English' 'CRS' 'History' 'Government'],300-500,2023,222
+Student_527,JAMB and WAEC,Yes,Good,Fear,5,Counseling,nan,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2021,243
+Student_528,JAMB,Yes,Good,Fear,5,Mock exams,Negative,Procrastination,I attend extra classes,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2024,309
+Student_529,JAMB and WAEC,Yes,nan,Time management,3,Mock exams,Positive & Negative,Inadequate preparation,I attend extra classes,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2023,320
+Student_530,JAMB,Yes,Bad,Anxiety,1,Extra lesson,nan,Poor Time management,I practice with past questions,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2021,217
+Student_531,WAEC,Yes,Bad,Subject difficulty,4,nan,Negative,nan,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2023,222
+Student_532,WAEC,Yes,Bad,Fear,3,nan,nan,nan,I followed a routine,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],300-500,2022,224
+Student_533,JAMB,Yes,Bad,Long waiting time,4,nan,nan,Inadequate preparation,I focus on weak areas,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],"1,000 Upwards ",2022,248
+Student_534,WAEC,No,Bad,Long waiting time, ,Mock exams,nan,Poor Time management,I had many mock exams,Biology,Science,['English' 'Chemistry' 'Biology' 'Physics'],"500-1,000",2020,277
+Student_535,JAMB and WAEC,Yes,nan,Long waiting time, ,nan,Positive,Poor Time management,I followed a routine,Maths,Science,['English' 'Maths' 'Biology' 'Chemistry'],"1,000 Upwards ",2022,264
+Student_536,JAMB,No,Average,Lack of time due to chores/work,4,Strict supervision,nan,nan,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2022,287
+Student_537,JAMB,No,Bad,No guardian/supervisor,4,Strict supervision,nan,Poor Time management,I practice with past questions,History,Art,['English' 'CRS' 'History' 'Literature in English'],0-100,2021,200
+Student_538,JAMB and WAEC,Yes,Good,Time management,5,Extra lesson,nan,Procrastination,I had many mock exams,Physics,Science,['English' 'Biology' 'Chemistry' 'Physics'],100-300,2024,239
+Student_539,WAEC,Yes,Average,Time management,1,nan,nan,Lack of planning,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2023,219
+Student_540,JAMB and WAEC,Yes,Bad,Anxiety,4,nan,nan,nan,I followed a routine,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2021,237
+Student_541,WAEC,Yes,Bad,Time management,5,Strict supervision,Positive,nan,I put away other commitments,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],0-100,2023,179
+Student_542,JAMB,Yes,Average,Subject difficulty,2,Moral Support,Positive & Negative,nan,I review my notes daily,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],"500-1,000",2022,244
+Student_543,JAMB and WAEC,Yes,Good,Long waiting time,3,nan,nan,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],100-300,2023,196
+Student_544,JAMB,Yes,Good,Fear,5,Moral Support,Positive,Poor Time management,I attend extra classes,CRS,Art,['English' 'History' 'CRS' 'Government'],100-300,2022,221
+Student_545,WAEC,Yes,Bad,Fear,4,Extra lesson,nan,nan,I attend extra classes,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2020,238
+Student_546,WAEC,Yes,Bad,Long waiting time,3,nan,Positive & Negative,Inadequate preparation,I attend extra classes,Maths,Science,['English' 'Physics' 'Maths' 'Chemistry'],300-500,2020,269
+Student_547,JAMB and WAEC,Yes,nan,Anxiety, ,Accountability partners,nan,Poor Time management,Used additional resources,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],"500-1,000",2021,283
+Student_548,WAEC,Yes,Good,Other commitments,3,Extra lesson,Positive,Lack of planning,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,217
+Student_549,JAMB and WAEC,No,Average,Lack of Finance,4,Moral Support,Positive & Negative,Procrastination,I put away other commitments,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2023,195
+Student_550,JAMB and WAEC,Yes,Good,Technical issues,3,Extra lesson,nan,External issues,I attend extra classes,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2020,254
+Student_551,WAEC,Yes,Average,Time management,5,Extra lesson,nan,Inadequate preparation,I had many mock exams,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2022,222
+Student_552,JAMB,No,Bad,Lack of Finance,3,Counseling,nan,Poor Time management,I focus on weak areas,CRS,Art,['English' 'CRS' 'History' 'Government'],0-100,2023,190
+Student_553,WAEC,Yes,Good,Time management,2,nan,nan,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2022,249
+Student_554,JAMB and WAEC,Yes,nan,Time management,4,Mock exams,nan,Poor Time management,I focus on weak areas,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2024,260
+Student_555,JAMB and WAEC,No,Good,Time management, ,nan,Positive & Negative,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],0-100,2023,196
+Student_556,JAMB and WAEC,No,Bad,Long waiting time,5,nan,nan,External issues,I attend extra classes,Biology,Science,['English' 'Chemistry' 'Physics' 'Biology'],"500-1,000",2024,287
+Student_557,JAMB,Yes,Good,Subject difficulty,4,nan,nan,Poor Time management,I review my notes daily,Literature in English,Art,['English' 'Government' 'History' 'Literature in English'],300-500,2024,267
+Student_558,WAEC,Yes,nan,Time management,5,Moral Support,nan,Lack of planning,I had many mock exams,Physics,Science,['English' 'Maths' 'Physics' 'Chemistry'],300-500,2021,218
+Student_559,JAMB,Yes,nan,Time management,3,nan,Positive & Negative,Inadequate preparation,I followed a routine,History,Art,['English' 'Government' 'CRS' 'History'],0-100,2024,244
+Student_560,JAMB,Yes,nan,Time management,2,Extra lesson,Positive & Negative,Inadequate preparation,I put away other commitments,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],0-100,2022,159
+Student_561,JAMB,No,Average,Time management,4,nan,Positive,Procrastination,I review my notes daily,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],"1,000 Upwards ",2021,263
+Student_562,JAMB and WAEC,Yes,Good,Fear,5,Strict supervision,Negative,Poor Time management,I attend extra classes,History,Art,['English' 'Government' 'CRS' 'History'],"1,000 Upwards ",2023,244
+Student_563,JAMB,No,Average,Technical issues,3,nan,nan,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],0-100,2020,151
+Student_564,JAMB and WAEC,No,Good,Other commitments,3,Strict supervision,nan,nan,I followed a routine,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],0-100,2021,204
+Student_565,JAMB,Yes,Good,Technical issues,1,Counseling,nan,Inadequate preparation,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2024,236
+Student_566,WAEC,Yes,Bad,Time management,3,Strict supervision,nan,Procrastination,I review my notes daily,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],300-500,2021,271
+Student_567,JAMB and WAEC,Yes,Bad,No guardian/supervisor,2,nan,nan,External issues,I had many mock exams,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,161
+Student_568,JAMB and WAEC,Yes,nan,Anxiety,5,Accountability partners,Positive,Poor Time management,I followed a routine,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],100-300,2023,250
+Student_569,JAMB,Yes,Average,No guardian/supervisor,4,Counseling,nan,Procrastination,I review my notes daily,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],300-500,2024,261
+Student_570,WAEC,Yes,nan,Time management, ,nan,nan,nan,I attend extra classes,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2023,191
+Student_571,WAEC,No,Bad,Lack of Finance,5,Mock exams,nan,Poor Time management,I had many mock exams,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],0-100,2023,240
+Student_572,WAEC,No,Good,Long waiting time,4,Moral Support,nan,Poor Time management,I put away other commitments,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2022,234
+Student_573,JAMB,Yes,Good,Long waiting time,3,Extra lesson,Positive,Inadequate preparation,I attend extra classes,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],100-300,2021,204
+Student_574,WAEC,Yes,Bad,Fear, ,Counseling,nan,nan,I review my notes daily,Maths,Science,['English' 'Maths' 'Chemistry' 'Biology'],"1,000 Upwards ",2024,277
+Student_575,JAMB,No,Good,Time management,5,Mock exams,Negative,Inadequate preparation,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,231
+Student_576,WAEC,Yes,nan,Subject difficulty,4,Mock exams,nan,Inadequate preparation,I study with a partner,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2021,150
+Student_577,WAEC,Yes,Good,Anxiety,5,nan,nan,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2024,244
+Student_578,JAMB,Yes,Good,Fear,5,Counseling,Positive,Inadequate preparation,I had many mock exams,CRS,Art,['English' 'CRS' 'History' 'Government'],300-500,2023,208
+Student_579,WAEC,Yes,Average,Subject difficulty, ,Mock exams,nan,nan,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2023,297
+Student_580,JAMB and WAEC,No,Bad,Technical issues,5,Counseling,Positive & Negative,nan,I focus on weak areas,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],"1,000 Upwards ",2023,262
+Student_581,WAEC,Yes,nan,nan,4,nan,nan,Procrastination,I had many mock exams,Government,Art,['English' 'Literature in English' 'History' 'Government'],"1,000 Upwards ",2023,250
+Student_582,WAEC,Yes,Average,Long waiting time,4,nan,Positive,Procrastination,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,224
+Student_583,JAMB and WAEC,Yes,Bad,Fear,3,nan,nan,Inadequate preparation,I review my notes daily,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],"1,000 Upwards ",2024,320
+Student_584,JAMB and WAEC,Yes,Average,Fear,5,Strict supervision,nan,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2023,263
+Student_585,JAMB and WAEC,No,Average,Lack of time due to chores/work,4,nan,Positive & Negative,Inadequate preparation,I focus on weak areas,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2020,255
+Student_586,WAEC,No,Average,Anxiety,3,Counseling,Negative,nan,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2024,193
+Student_587,JAMB,No,Bad,Technical issues, ,Counseling,Negative,Lack of planning,I practice with past questions,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2024,208
+Student_588,JAMB and WAEC,No,Bad,Time management, ,Strict supervision,nan,External issues,I review my notes daily,CRS,Art,['English' 'Government' 'History' 'CRS'],100-300,2024,206
+Student_589,JAMB,Yes,nan,Fear,3,nan,Negative,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2023,217
+Student_590,JAMB,Yes,Good,Other commitments,2,Counseling,Positive,nan,I review my notes daily,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2020,210
+Student_591,JAMB,Yes,Good,No guardian/supervisor, ,Strict supervision,Positive & Negative,Procrastination,I followed a routine,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],"1,000 Upwards ",2020,258
+Student_592,JAMB,Yes,Good,nan,5,Moral Support,nan,External issues,I attend extra classes,Chemistry,Science,['English' 'Maths' 'Biology' 'Chemistry'],300-500,2023,224
+Student_593,JAMB,Yes,Average,No guardian/supervisor,4,Extra lesson,Negative,nan,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2024,228
+Student_594,WAEC,Yes,Bad,Lack of Finance,4,nan,Positive & Negative,Poor Time management,I followed a routine,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],300-500,2020,242
+Student_595,WAEC,No,nan,nan,3,Strict supervision,nan,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],"500-1,000",2023,283
+Student_596,JAMB,Yes,Good,Long waiting time,3,Strict supervision,nan,Procrastination,I review my notes daily,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2023,197
+Student_597,JAMB and WAEC,No,nan,Anxiety,5,Extra lesson,nan,Inadequate preparation,I had many mock exams,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],300-500,2022,249
+Student_598,JAMB and WAEC,No,nan,Time management,4,Strict supervision,Positive & Negative,External issues,I attend extra classes,History,Art,['English' 'Government' 'History' 'Literature in English'],100-300,2020,222
+Student_599,JAMB,No,Average,Technical issues,3,Extra lesson,nan,Lack of planning,I followed a routine,CRS,Art,['English' 'CRS' 'Government' 'Literature in English'],0-100,2022,203
+Student_600,JAMB and WAEC,Yes,Average,Lack of Finance, ,Moral Support,nan,Inadequate preparation,I had many mock exams,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2024,233
+Student_601,JAMB,Yes,Average,Anxiety,4,nan,Negative,nan,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2021,179
+Student_602,JAMB,No,nan,Time management,5,Strict supervision,nan,Procrastination,I attend extra classes,History,Art,['English' 'Government' 'History' 'Literature in English'],"1,000 Upwards ",2023,262
+Student_603,JAMB,No,Bad,Fear,3,nan,Positive & Negative,nan,I attend extra classes,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],"500-1,000",2023,264
+Student_604,JAMB and WAEC,Yes,Bad,Time management,3,Extra lesson,nan,Inadequate preparation,I followed a routine,CRS,Art,['English' 'Government' 'History' 'CRS'],0-100,2023,235
+Student_605,JAMB and WAEC,Yes,Bad,Long waiting time,5,Accountability partners,Negative,Lack of planning,I had many mock exams,History,Art,['English' 'Literature in English' 'History' 'CRS'],0-100,2022,212
+Student_606,WAEC,Yes,Bad,Anxiety,5,Mock exams,nan,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2020,210
+Student_607,WAEC,No,Average,Fear, ,Accountability partners,Positive,Procrastination,I followed a routine,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],0-100,2023,246
+Student_608,JAMB,Yes,nan,Fear,5,Counseling,Positive,Poor Time management,I focus on weak areas,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],"1,000 Upwards ",2023,272
+Student_609,JAMB,No,nan,Other commitments,3,Mock exams,nan,Poor Time management,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'CRS' 'Government'],300-500,2021,266
+Student_1,JAMB and WAEC,No,Good,Time management,4,Mock exams,nan,nan,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,168
+Student_2,JAMB,Yes,nan,Long waiting time,3,nan,Positive,Procrastination,I had many mock exams,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,238
+Student_3,WAEC,Yes,Good,Anxiety,5,Mock exams,Positive & Negative,Inadequate preparation,I focus on weak areas,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2024,202
+Student_4,JAMB,Yes,Good,Fear,3,Moral Support,Negative,External issues,I had many mock exams,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],300-500,2020,248
+Student_610,WAEC,Yes,Bad,No guardian/supervisor,3,Strict supervision,nan,Lack of planning,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],100-300,2022,206
+Student_611,JAMB,Yes,Good,Fear,5,Mock exams,Positive,Lack of planning,I attend extra classes,History,Art,['English' 'CRS' 'History' 'Government'],100-300,2023,179
+Student_612,WAEC,Yes,nan,Anxiety, ,nan,Negative,Lack of planning,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2024,206
+Student_613,WAEC,Yes,Bad,Fear,4,nan,nan,Procrastination,I put away other commitments,CRS,Art,['English' 'Government' 'CRS' 'History'],0-100,2024,210
+Student_614,JAMB and WAEC,Yes,Good,Long waiting time,4,Extra lesson,nan,Procrastination,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2024,291
+Student_615,JAMB,Yes,Good,Fear,2,nan,nan,nan,Used additional resources,Government,Art,['English' 'History' 'CRS' 'Government'],100-300,2024,219
+Student_616,JAMB and WAEC,Yes,Good,Fear,3,Strict supervision,nan,Procrastination,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2022,203
+Student_617,WAEC,No,nan,No guardian/supervisor,5,nan,Negative,Procrastination,I focus on weak areas,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2024,219
+Student_618,JAMB,Yes,Good,Time management,3,Mock exams,Negative,Procrastination,Used additional resources,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2021,211
+Student_619,JAMB,No,Bad,Time management,5,Mock exams,nan,Inadequate preparation,I put away other commitments,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],"500-1,000",2022,214
+Student_620,JAMB,Yes,nan,Other commitments,4,Mock exams,Positive & Negative,Poor Time management,I attend extra classes,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],"500-1,000",2022,239
+Student_621,JAMB,No,Good,Long waiting time,2,Moral Support,Positive & Negative,Procrastination,I attend extra classes,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,173
+Student_622,JAMB and WAEC,No,Bad,Fear, ,Strict supervision,Positive & Negative,Procrastination,Used additional resources,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2020,171
+Student_623,WAEC,No,Bad,Long waiting time,5,Mock exams,Positive,Procrastination,I put away other commitments,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2023,254
+Student_624,JAMB,Yes,nan,Long waiting time,3,nan,Positive & Negative,nan,I practice with past questions,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2021,269
+Student_625,JAMB and WAEC,Yes,Bad,Subject difficulty,4,nan,nan,Inadequate preparation,I review my notes daily,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],0-100,2023,178
+Student_626,JAMB,Yes,Average,Time management,3,Mock exams,nan,Inadequate preparation,I put away other commitments,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],100-300,2023,212
+Student_627,WAEC,No,Bad,Technical issues, ,Strict supervision,nan,External issues,I study with a partner,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],300-500,2023,252
+Student_628,JAMB and WAEC,Yes,Bad,No guardian/supervisor,2,nan,Negative,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'CRS' 'Literature in English' 'Government'],0-100,2022,204
+Student_629,WAEC,Yes,Bad,No guardian/supervisor,5,nan,nan,Inadequate preparation,I followed a routine,Government,Art,['English' 'Government' 'Literature in English' 'History'],"1,000 Upwards ",2023,273
+Student_630,JAMB and WAEC,No,Average,Long waiting time,5,Strict supervision,Positive & Negative,Lack of planning,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Biology'],"500-1,000",2023,286
+Student_631,JAMB,No,nan,Technical issues,2,Mock exams,nan,Procrastination,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2022,179
+Student_632,WAEC,No,Bad,Other commitments,5,Strict supervision,Negative,Inadequate preparation,I focus on weak areas,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],"500-1,000",2023,299
+Student_633,JAMB,Yes,Average,Time management, ,Moral Support,Negative,Poor Time management,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'Government' 'CRS'],100-300,2022,205
+Student_634,JAMB and WAEC,Yes,Good,Long waiting time,4,nan,Positive & Negative,Procrastination,I put away other commitments,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],"500-1,000",2023,274
+Student_635,JAMB,Yes,Good,Long waiting time,4,Counseling,nan,Procrastination,Used additional resources,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2024,200
+Student_636,JAMB and WAEC,Yes,Average,Long waiting time,4,Accountability partners,Positive & Negative,Inadequate preparation,I review my notes daily,History,Art,['English' 'History' 'CRS' 'Government'],100-300,2023,258
+Student_637,WAEC,Yes,Bad,Anxiety,3,Strict supervision,nan,Inadequate preparation,I had many mock exams,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2021,253
+Student_638,JAMB,Yes,Average,Fear, ,nan,Positive & Negative,Inadequate preparation,I followed a routine,Biology,Science,['English' 'Maths' 'Chemistry' 'Biology'],100-300,2022,227
+Student_639,JAMB,Yes,Good,Time management,4,Strict supervision,Positive,Procrastination,Used additional resources,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Biology'],0-100,2023,170
+Student_640,JAMB,Yes,Good,Long waiting time,3,Strict supervision,Negative,nan,I had many mock exams,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],100-300,2023,194
+Student_641,JAMB,No,Bad,Fear,5,Mock exams,Negative,Procrastination,I review my notes daily,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2022,171
+Student_642,WAEC,Yes,Good,No guardian/supervisor,4,Counseling,Negative,Procrastination,I had many mock exams,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],"500-1,000",2024,264
+Student_643,JAMB,No,Good,Fear,3,nan,nan,nan,I practice with past questions,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2020,191
+Student_644,JAMB,No,nan,Long waiting time, ,Mock exams,nan,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Biology'],100-300,2023,224
+Student_645,JAMB and WAEC,Yes,Bad,Long waiting time,3,Extra lesson,nan,External issues,Used additional resources,Literature in English,Art,['English' 'History' 'Government' 'Literature in English'],"500-1,000",2023,220
+Student_646,JAMB and WAEC,Yes,Good,nan,3,nan,Negative,Poor Time management,I focus on weak areas,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],0-100,2023,154
+Student_647,JAMB,No,Bad,nan,2,Extra lesson,Positive,Inadequate preparation,I review my notes daily,CRS,Art,['English' 'CRS' 'Government' 'History'],100-300,2024,188
+Student_648,JAMB and WAEC,Yes,nan,Long waiting time,4,Mock exams,Positive,Poor Time management,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2021,185
+Student_649,JAMB,Yes,Average,Time management,2,nan,Positive & Negative,Inadequate preparation,I focus on weak areas,Maths,Science,['English' 'Physics' 'Maths' 'Biology'],0-100,2023,150
+Student_650,JAMB,No,Average,Fear,5,nan,nan,Procrastination,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2022,232
+Student_651,JAMB,Yes,Good,Lack of Finance, ,nan,Positive & Negative,External issues,Used additional resources,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2024,227
+Student_652,JAMB and WAEC,Yes,Good,Subject difficulty, ,Counseling,Positive & Negative,Inadequate preparation,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2023,246
+Student_653,JAMB,Yes,Bad,Fear,1,Strict supervision,Positive & Negative,Inadequate preparation,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],"500-1,000",2021,256
+Student_654,JAMB and WAEC,Yes,Bad,Fear, ,nan,nan,External issues,I focus on weak areas,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,185
+Student_655,JAMB and WAEC,No,nan,Subject difficulty, ,nan,Positive,Poor Time management,I review my notes daily,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2022,220
+Student_656,JAMB,Yes,Good,nan,3,Strict supervision,nan,Poor Time management,Used additional resources,History,Art,['English' 'History' 'Literature in English' 'CRS'],300-500,2020,249
+Student_657,JAMB,Yes,Bad,Time management,3,Extra lesson,nan,nan,I put away other commitments,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2020,188
+Student_658,JAMB,Yes,Bad,Lack of time due to chores/work,3,nan,nan,nan,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2022,234
+Student_659,WAEC,No,Good,Long waiting time,4,Counseling,Positive,Procrastination,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],100-300,2023,173
+Student_660,JAMB and WAEC,No,nan,nan,4,Mock exams,Positive,Poor Time management,I review my notes daily,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],"1,000 Upwards ",2022,249
+Student_661,WAEC,No,Average,Anxiety,4,nan,nan,Procrastination,I review my notes daily,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Biology'],0-100,2020,184
+Student_662,WAEC,No,Good,Anxiety,3,nan,Negative,Poor Time management,I followed a routine,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],100-300,2023,220
+Student_663,JAMB,Yes,Good,Time management,1,Mock exams,nan,Procrastination,I had many mock exams,Literature in English,Art,['English' 'History' 'Government' 'Literature in English'],0-100,2022,210
+Student_664,JAMB and WAEC,No,Bad,Other commitments, ,nan,nan,nan,I put away other commitments,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2023,187
+Student_665,JAMB and WAEC,Yes,Average,Technical issues,4,Strict supervision,Negative,Procrastination,I review my notes daily,Literature in English,Art,['English' 'History' 'CRS' 'Literature in English'],"500-1,000",2020,282
+Student_666,JAMB,Yes,Bad,Subject difficulty,5,Moral Support,Negative,Procrastination,I attend extra classes,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2021,210
+Student_667,JAMB and WAEC,Yes,Average,nan,3,Accountability partners,nan,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"1,000 Upwards ",2021,245
+Student_668,WAEC,Yes,Good,Technical issues,4,nan,Negative,Poor Time management,I had many mock exams,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],100-300,2024,219
+Student_669,JAMB,Yes,Average,Fear,3,Moral Support,Negative,Inadequate preparation,I review my notes daily,CRS,Art,['English' 'Government' 'CRS' 'History'],300-500,2024,241
+Student_670,JAMB,Yes,Good,Fear,5,Accountability partners,nan,External issues,I had many mock exams,Government,Art,['English' 'Literature in English' 'CRS' 'Government'],300-500,2021,241
+Student_671,JAMB,Yes,Average,Long waiting time,3,Accountability partners,nan,Poor Time management,I review my notes daily,Physics,Science,['English' 'Biology' 'Chemistry' 'Physics'],100-300,2022,192
+Student_672,WAEC,No,Bad,Time management,5,Extra lesson,nan,External issues,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2021,265
+Student_673,JAMB and WAEC,Yes,Average,Fear,4,Mock exams,nan,Procrastination,I review my notes daily,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],300-500,2022,255
+Student_674,JAMB,Yes,Good,Long waiting time,3,Strict supervision,Positive,Lack of planning,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,214
+Student_675,JAMB,Yes,Average,Lack of Finance,4,Extra lesson,Positive & Negative,Procrastination,Used additional resources,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,170
+Student_676,WAEC,Yes,Bad,Anxiety,2,Strict supervision,Negative,nan,I review my notes daily,Biology,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2020,188
+Student_677,JAMB and WAEC,Yes,Average,Time management,4,Mock exams,Positive,Inadequate preparation,I review my notes daily,Government,Art,['English' 'CRS' 'Government' 'Literature in English'],0-100,2023,190
+Student_678,JAMB,Yes,Good,Time management,4,Accountability partners,Positive & Negative,Poor Time management,I practice with past questions,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2021,211
+Student_679,JAMB and WAEC,No,Bad,Time management,5,nan,nan,Procrastination,I followed a routine,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],0-100,2024,172
+Student_680,JAMB and WAEC,Yes,Good,Time management,5,Accountability partners,nan,Lack of planning,I study with a partner,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,176
+Student_681,JAMB and WAEC,No,Good,Fear,5,Accountability partners,nan,External issues,I study with a partner,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2023,204
+Student_682,JAMB,Yes,Good,Long waiting time,3,Counseling,nan,Lack of planning,I review my notes daily,History,Art,['English' 'Literature in English' 'Government' 'History'],100-300,2020,204
+Student_683,WAEC,Yes,Bad,No guardian/supervisor,4,Mock exams,nan,Inadequate preparation,Used additional resources,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2020,284
+Student_684,JAMB and WAEC,Yes,Average,Anxiety,4,nan,nan,nan,I focus on weak areas,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],100-300,2021,201
+Student_685,JAMB,No,Good,Anxiety,5,Mock exams,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],100-300,2021,176
+Student_686,JAMB and WAEC,Yes,Average,nan,2,Extra lesson,Positive,nan,I review my notes daily,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],0-100,2022,243
+Student_687,WAEC,Yes,Good,Subject difficulty,5,nan,Positive,External issues,I followed a routine,CRS,Art,['English' 'CRS' 'History' 'Literature in English'],0-100,2021,175
+Student_688,JAMB and WAEC,No,Bad,Time management,5,nan,nan,Lack of planning,I attend extra classes,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],100-300,2020,250
+Student_689,JAMB and WAEC,Yes,Bad,Subject difficulty,4,nan,Negative,Procrastination,I followed a routine,Maths,Science,['English' 'Physics' 'Biology' 'Maths'],"500-1,000",2020,269
+Student_690,JAMB,Yes,Good,Fear,4,Moral Support,Positive,Poor Time management,I had many mock exams,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2023,250
+Student_691,JAMB,Yes,Good,Lack of Finance, ,Accountability partners,Positive,Procrastination,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2023,223
+Student_692,WAEC,Yes,Average,Anxiety,1,Counseling,nan,Procrastination,Used additional resources,Maths,Science,['English' 'Physics' 'Maths' 'Biology'],300-500,2024,245
+Student_693,JAMB and WAEC,Yes,Average,Fear,2,nan,Positive,Inadequate preparation,I study with a partner,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2024,240
+Student_694,WAEC,No,Bad,Lack of time due to chores/work,4,nan,Positive,External issues,I attend extra classes,Chemistry,Science,['English' 'Chemistry' 'Maths' 'Physics'],"500-1,000",2021,278
+Student_695,WAEC,No,Bad,Long waiting time,5,nan,nan,Lack of planning,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2020,215
+Student_696,WAEC,No,Good,Time management,2,nan,nan,Lack of planning,I attend extra classes,Biology,Science,['English' 'Physics' 'Maths' 'Biology'],"500-1,000",2024,214
+Student_697,JAMB and WAEC,No,Average,Subject difficulty,3,Counseling,Negative,Procrastination,I study with a partner,Literature in English,Art,['English' 'CRS' 'History' 'Literature in English'],0-100,2023,226
+Student_698,WAEC,No,Average,Fear, ,nan,Negative,Inadequate preparation,I focus on weak areas,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2023,239
+Student_699,JAMB,No,Average,Fear,3,Moral Support,nan,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],0-100,2024,192
+Student_700,WAEC,Yes,Bad,Long waiting time,2,Counseling,nan,nan,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,162
+Student_701,WAEC,Yes,Good,Fear,4,Moral Support,nan,External issues,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2024,164
+Student_702,WAEC,Yes,Good,nan,3,Counseling,Positive & Negative,Lack of planning,I had many mock exams,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,169
+Student_703,JAMB,No,nan,Lack of Finance,1,Extra lesson,nan,External issues,I study with a partner,Literature in English,Art,['English' 'Literature in English' 'CRS' 'Government'],0-100,2024,223
+Student_704,WAEC,Yes,Good,Fear,4,Counseling,nan,nan,I focus on weak areas,Government,Art,['English' 'Government' 'History' 'Literature in English'],"1,000 Upwards ",2020,271
+Student_705,JAMB,Yes,Bad,Time management,2,Counseling,Positive & Negative,Procrastination,I attend extra classes,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2023,191
+Student_706,JAMB,Yes,Bad,Long waiting time,5,Counseling,nan,Procrastination,I had many mock exams,Physics,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2023,206
+Student_707,JAMB,No,Good,Anxiety,3,nan,nan,Lack of planning,I review my notes daily,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],"1,000 Upwards ",2023,312
+Student_708,JAMB,Yes,Good,Lack of time due to chores/work,3,Mock exams,nan,Procrastination,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Physics' 'Maths'],300-500,2022,269
+Student_709,JAMB,Yes,Bad,Fear,1,nan,nan,Poor Time management,I put away other commitments,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],0-100,2024,156
+Student_710,JAMB,Yes,Average,nan,5,nan,Positive & Negative,Inadequate preparation,I put away other commitments,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2024,239
+Student_711,WAEC,No,Average,Long waiting time,3,Strict supervision,nan,Inadequate preparation,I study with a partner,Maths,Science,['English' 'Biology' 'Maths' 'Physics'],100-300,2024,210
+Student_712,JAMB and WAEC,Yes,Average,Fear,5,Extra lesson,nan,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2021,291
+Student_713,JAMB and WAEC,Yes,Bad,Fear,2,Mock exams,nan,Procrastination,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2021,233
+Student_714,WAEC,No,Bad,Subject difficulty,5,Strict supervision,nan,Inadequate preparation,I followed a routine,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2020,193
+Student_715,WAEC,Yes,Average,Long waiting time,3,Strict supervision,Positive,nan,I focus on weak areas,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2023,236
+Student_716,WAEC,No,nan,Time management,5,nan,Positive,nan,I put away other commitments,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"500-1,000",2022,280
+Student_717,JAMB,Yes,nan,Long waiting time,3,Mock exams,nan,Inadequate preparation,I practice with past questions,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],300-500,2020,258
+Student_718,JAMB,No,Average,Fear,4,Strict supervision,Negative,Procrastination,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2023,193
+Student_719,JAMB,Yes,Average,nan,3,nan,Positive,nan,I put away other commitments,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2023,194
+Student_720,WAEC,Yes,nan,Fear,5,nan,Negative,Inadequate preparation,I had many mock exams,History,Art,['English' 'Literature in English' 'History' 'CRS'],"1,000 Upwards ",2021,269
+Student_721,JAMB,Yes,Bad,Anxiety,4,Extra lesson,nan,Procrastination,I study with a partner,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2021,184
+Student_722,JAMB,Yes,Good,Anxiety,5,nan,nan,Inadequate preparation,I review my notes daily,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],0-100,2023,182
+Student_723,WAEC,Yes,nan,Fear,5,nan,nan,Lack of planning,I review my notes daily,Physics,Science,['English' 'Chemistry' 'Maths' 'Physics'],0-100,2020,218
+Student_724,WAEC,Yes,Good,No guardian/supervisor,4,nan,Positive,Lack of planning,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2020,246
+Student_725,JAMB and WAEC,Yes,Bad,Technical issues, ,Counseling,Positive,Inadequate preparation,I followed a routine,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],"500-1,000",2022,279
+Student_726,JAMB,Yes,Bad,Anxiety,5,Accountability partners,nan,Procrastination,I review my notes daily,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2023,221
+Student_727,JAMB and WAEC,Yes,Average,Fear, ,Accountability partners,nan,Poor Time management,I focus on weak areas,Government,Art,['English' 'CRS' 'Government' 'History'],100-300,2022,212
+Student_728,JAMB and WAEC,Yes,Average,Time management,1,Extra lesson,nan,Inadequate preparation,Used additional resources,Biology,Science,['English' 'Physics' 'Maths' 'Biology'],300-500,2022,255
+Student_729,JAMB and WAEC,No,Bad,Fear,3,Accountability partners,nan,Procrastination,I focus on weak areas,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],"1,000 Upwards ",2021,288
+Student_730,WAEC,Yes,Average,Long waiting time, ,nan,nan,Inadequate preparation,I had many mock exams,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],100-300,2024,249
+Student_731,JAMB,Yes,Bad,Anxiety,5,Extra lesson,Negative,nan,I study with a partner,Government,Art,['English' 'Literature in English' 'History' 'Government'],100-300,2024,215
+Student_732,JAMB and WAEC,Yes,Good,nan,5,Mock exams,nan,Inadequate preparation,I attend extra classes,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2024,185
+Student_733,JAMB and WAEC,No,Good,Technical issues,5,nan,nan,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2021,254
+Student_734,JAMB,No,Good,Fear,3,Extra lesson,Negative,Procrastination,I attend extra classes,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2021,217
+Student_735,JAMB,Yes,Good,Fear,3,nan,nan,Procrastination,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,228
+Student_736,JAMB and WAEC,Yes,Good,Other commitments,3,Moral Support,nan,Poor Time management,I practice with past questions,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2024,204
+Student_737,JAMB,No,Good,Time management,3,Accountability partners,Negative,Lack of planning,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2022,264
+Student_738,WAEC,Yes,Good,Time management,2,Strict supervision,Positive,nan,I attend extra classes,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2024,185
+Student_739,JAMB,Yes,nan,nan,4,Strict supervision,Negative,Poor Time management,I had many mock exams,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],300-500,2023,278
+Student_740,JAMB and WAEC,Yes,Average,Fear,4,nan,nan,Poor Time management,I practice with past questions,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],100-300,2021,166
+Student_741,JAMB,No,Average,Anxiety,5,Mock exams,Positive,Lack of planning,I followed a routine,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],"500-1,000",2021,241
+Student_742,JAMB,No,Average,nan,2,Moral Support,nan,External issues,I focus on weak areas,Biology,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2022,209
+Student_743,JAMB,Yes,Good,Long waiting time,3,Extra lesson,nan,nan,I had many mock exams,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],300-500,2023,230
+Student_744,WAEC,Yes,Good,Fear,4,Strict supervision,nan,Inadequate preparation,I practice with past questions,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],"500-1,000",2023,287
+Student_745,WAEC,No,nan,Time management, ,Counseling,Positive,nan,I followed a routine,CRS,Art,['English' 'Literature in English' 'CRS' 'Government'],0-100,2020,176
+Student_746,JAMB,No,Bad,Subject difficulty,4,Strict supervision,nan,nan,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2024,249
+Student_747,WAEC,No,Good,Fear, ,nan,nan,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Maths'],0-100,2020,189
+Student_748,JAMB and WAEC,Yes,Good,Anxiety,5,Counseling,nan,Lack of planning,I review my notes daily,CRS,Art,['English' 'CRS' 'Government' 'History'],0-100,2022,177
+Student_749,JAMB,No,Bad,Fear,4,Moral Support,Negative,nan,I followed a routine,Maths,Science,['English' 'Biology' 'Maths' 'Chemistry'],100-300,2020,211
+Student_751,JAMB and WAEC,No,Good,No guardian/supervisor,4,Counseling,Positive,Inadequate preparation,Used additional resources,History,Art,['English' 'CRS' 'History' 'Government'],0-100,2020,180
+Student_752,WAEC,No,Good,Time management,5,Mock exams,Positive,Poor Time management,I study with a partner,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2021,232
+Student_753,JAMB,Yes,Bad,Time management,4,Counseling,nan,Poor Time management,I had many mock exams,History,Art,['English' 'History' 'Government' 'Literature in English'],0-100,2023,168
+Student_754,WAEC,Yes,Bad,Time management,3,Counseling,nan,nan,I review my notes daily,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2020,245
+Student_755,WAEC,No,nan,Other commitments,3,Extra lesson,nan,Procrastination,I focus on weak areas,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],"1,000 Upwards ",2023,286
+Student_756,JAMB,Yes,Good,Subject difficulty,5,nan,Positive,Poor Time management,I had many mock exams,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],100-300,2022,181
+Student_757,WAEC,No,Average,Lack of time due to chores/work,4,nan,nan,Procrastination,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,201
+Student_758,WAEC,No,nan,Time management,3,nan,nan,Inadequate preparation,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'CRS' 'History'],"500-1,000",2024,235
+Student_759,WAEC,Yes,Good,Subject difficulty,5,nan,nan,Procrastination,I put away other commitments,Government,Art,['English' 'History' 'CRS' 'Government'],"500-1,000",2020,233
+Student_760,WAEC,No,Good,Technical issues,5,nan,Positive,Poor Time management,I review my notes daily,Maths,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2024,227
+Student_761,JAMB,Yes,Good,Long waiting time,3,Accountability partners,Negative,Inadequate preparation,I study with a partner,Maths,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2024,230
+Student_762,JAMB and WAEC,No,Good,No guardian/supervisor,2,Mock exams,nan,nan,I put away other commitments,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],"500-1,000",2024,268
+Student_763,JAMB,No,Good,Anxiety,3,Extra lesson,nan,nan,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2021,219
+Student_764,JAMB,No,Good,Fear,4,Extra lesson,nan,nan,I put away other commitments,Biology,Science,['English' 'Physics' 'Chemistry' 'Biology'],"500-1,000",2024,262
+Student_765,JAMB,No,Good,nan,3,nan,nan,External issues,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,211
+Student_766,JAMB and WAEC,No,nan,Anxiety,2,Mock exams,Positive,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],0-100,2024,150
+Student_767,JAMB and WAEC,No,Good,Other commitments,2,Mock exams,nan,Poor Time management,I had many mock exams,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"1,000 Upwards ",2022,294
+Student_768,JAMB,Yes,Good,No guardian/supervisor,3,Mock exams,Negative,Procrastination,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'History' 'CRS'],300-500,2023,238
+Student_769,WAEC,No,Average,Fear,4,Mock exams,Positive & Negative,External issues,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2024,280
+Student_770,JAMB and WAEC,Yes,Average,Long waiting time,2,Mock exams,nan,Inadequate preparation,I practice with past questions,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2022,276
+Student_771,JAMB,Yes,Bad,Time management,4,Mock exams,nan,nan,I had many mock exams,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2022,160
+Student_772,JAMB and WAEC,Yes,Good,nan, ,Strict supervision,Positive & Negative,External issues,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2020,217
+Student_773,JAMB and WAEC,Yes,Average,Anxiety,5,Strict supervision,nan,Lack of planning,I practice with past questions,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2021,259
+Student_774,JAMB,Yes,nan,Anxiety,5,nan,nan,Poor Time management,I study with a partner,Maths,Science,['English' 'Biology' 'Maths' 'Physics'],300-500,2024,231
+Student_775,JAMB and WAEC,No,Good,Fear,5,Moral Support,Negative,nan,I followed a routine,Literature in English,Art,['English' 'History' 'Literature in English' 'CRS'],300-500,2024,222
+Student_776,WAEC,Yes,Bad,Time management, ,Extra lesson,nan,External issues,I followed a routine,Maths,Science,['English' 'Physics' 'Maths' 'Biology'],100-300,2022,258
+Student_777,JAMB and WAEC,No,Good,Fear,1,nan,nan,Poor Time management,Used additional resources,Economics,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2020,282
+Student_778,WAEC,No,nan,Anxiety,3,Mock exams,nan,Poor Time management,I had many mock exams,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],"500-1,000",2020,282
+Student_779,WAEC,Yes,Average,Technical issues,5,Mock exams,nan,Inadequate preparation,I review my notes daily,Economics,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],0-100,2023,242
+Student_780,JAMB,Yes,Good,Fear,5,Mock exams,Positive & Negative,External issues,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2021,173
+Student_781,JAMB,No,Bad,Long waiting time,4,nan,Positive & Negative,Lack of planning,I focus on weak areas,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],"1,000 Upwards ",2020,320
+Student_782,JAMB,No,nan,nan,1,Extra lesson,Positive & Negative,Procrastination,I had many mock exams,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],0-100,2021,227
+Student_783,WAEC,Yes,Bad,Technical issues,5,nan,Positive,nan,I review my notes daily,Maths,Science,['English' 'Physics' 'Chemistry' 'Maths'],"500-1,000",2022,233
+Student_784,JAMB,Yes,nan,Fear,3,Mock exams,nan,External issues,I study with a partner,Maths,Science,['English' 'Biology' 'Maths' 'Physics'],"1,000 Upwards ",2022,242
+Student_785,JAMB and WAEC,No,Bad,Long waiting time,4,Extra lesson,Negative,Poor Time management,I had many mock exams,Government,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2023,150
+Student_786,WAEC,Yes,Good,nan,4,nan,Negative,Procrastination,I followed a routine,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2022,150
+Student_787,WAEC,No,Bad,Other commitments,4,nan,nan,Poor Time management,I review my notes daily,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"1,000 Upwards ",2021,265
+Student_788,JAMB,Yes,Average,Fear,2,Mock exams,Negative,Poor Time management,I attend extra classes,Maths,Science,['English' 'Physics' 'Biology' 'Maths'],"1,000 Upwards ",2023,277
+Student_789,JAMB and WAEC,No,Bad,Time management,1,Moral Support,nan,Lack of planning,I followed a routine,History,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2022,240
+Student_790,WAEC,No,nan,Lack of Finance,2,Counseling,Positive & Negative,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,234
+Student_791,WAEC,Yes,nan,nan,4,Accountability partners,Positive,Procrastination,I had many mock exams,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2022,150
+Student_792,WAEC,Yes,nan,Time management,4,Mock exams,Negative,nan,I review my notes daily,Physics,Science,['English' 'Physics' 'Biology' 'Maths'],100-300,2024,248
+Student_793,JAMB and WAEC,Yes,Bad,Lack of time due to chores/work,3,Counseling,nan,nan,I study with a partner,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],0-100,2021,170
+Student_794,JAMB and WAEC,Yes,Bad,Time management,5,Moral Support,Positive,Procrastination,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2023,224
+Student_795,WAEC,Yes,Good,Long waiting time,4,Moral Support,Positive,nan,I review my notes daily,History,Art,['English' 'CRS' 'Government' 'History'],0-100,2023,194
+Student_796,WAEC,Yes,Good,Subject difficulty, ,Mock exams,Positive,Procrastination,Used additional resources,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],"500-1,000",2023,241
+Student_797,JAMB,Yes,Good,Anxiety,2,nan,nan,nan,I attend extra classes,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],"500-1,000",2024,270
+Student_798,JAMB,Yes,Bad,Lack of time due to chores/work,3,nan,Positive & Negative,nan,I followed a routine,History,Art,['English' 'Government' 'History' 'CRS'],300-500,2020,195
+Student_799,WAEC,No,Bad,Anxiety,5,nan,nan,Procrastination,I review my notes daily,CRS,Art,['English' 'CRS' 'Government' 'History'],300-500,2022,283
+Student_800,JAMB,No,nan,Fear,5,Extra lesson,Negative,Poor Time management,I followed a routine,Biology,Science,['English' 'Maths' 'Chemistry' 'Biology'],0-100,2023,166
+Student_801,JAMB and WAEC,Yes,Bad,Anxiety,3,Strict supervision,Positive,Procrastination,I review my notes daily,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],300-500,2023,200
+Student_802,JAMB,No,Bad,Fear,4,Moral Support,Positive,nan,I had many mock exams,CRS,Art,['English' 'Literature in English' 'Government' 'CRS'],"500-1,000",2022,293
+Student_803,JAMB and WAEC,Yes,nan,Lack of Finance,5,Moral Support,nan,Lack of planning,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,213
+Student_804,JAMB and WAEC,Yes,Good,No guardian/supervisor,5,nan,Positive,Poor Time management,I put away other commitments,Literature in English,Art,['English' 'Literature in English' 'CRS' 'History'],100-300,2024,220
+Student_805,JAMB and WAEC,Yes,nan,Fear,5,nan,nan,nan,I focus on weak areas,Biology,Science,['English' 'Maths' 'Biology' 'Physics'],"500-1,000",2023,274
+Student_806,JAMB,Yes,nan,Anxiety,3,Mock exams,Positive & Negative,Inadequate preparation,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2023,216
+Student_807,JAMB and WAEC,No,nan,Long waiting time,5,nan,Positive & Negative,Procrastination,Used additional resources,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2021,174
+Student_808,JAMB and WAEC,No,nan,Long waiting time, ,Strict supervision,Negative,Poor Time management,I review my notes daily,CRS,Art,['English' 'CRS' 'Government' 'History'],"1,000 Upwards ",2023,307
+Student_809,JAMB,Yes,Good,Fear,5,nan,nan,Procrastination,I had many mock exams,Physics,Science,['English' 'Biology' 'Physics' 'Maths'],"500-1,000",2022,262
+Student_810,JAMB,Yes,Bad,Time management,3,Counseling,nan,Procrastination,I attend extra classes,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],"500-1,000",2023,231
+Student_811,JAMB,Yes,nan,Long waiting time,5,Strict supervision,nan,Procrastination,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Biology'],100-300,2024,182
+Student_812,WAEC,No,Average,Time management, ,Strict supervision,nan,nan,Used additional resources,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],300-500,2020,231
+Student_813,JAMB,Yes,Bad,Anxiety,5,Mock exams,Positive,Poor Time management,I followed a routine,Biology,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2021,216
+Student_814,WAEC,Yes,Bad,Long waiting time, ,nan,nan,nan,I study with a partner,CRS,Art,['English' 'History' 'Government' 'CRS'],0-100,2024,182
+Student_815,WAEC,Yes,Good,Other commitments, ,Moral Support,Negative,Inadequate preparation,I followed a routine,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2020,209
+Student_816,JAMB and WAEC,Yes,Good,Fear,5,nan,nan,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],100-300,2021,256
+Student_817,JAMB,Yes,Bad,Fear,3,Strict supervision,Negative,Procrastination,I followed a routine,Physics,Science,['English' 'Biology' 'Maths' 'Physics'],"1,000 Upwards ",2023,227
+Student_818,JAMB,No,Good,No guardian/supervisor,4,nan,nan,External issues,I put away other commitments,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2023,287
+Student_819,JAMB,Yes,Bad,Long waiting time,5,Mock exams,Positive,nan,I followed a routine,Physics,Science,['English' 'Physics' 'Maths' 'Biology'],0-100,2021,170
+Student_820,JAMB,No,Good,Fear,4,nan,nan,Poor Time management,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,180
+Student_821,JAMB and WAEC,No,Bad,Other commitments,4,Moral Support,nan,Inadequate preparation,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],0-100,2023,229
+Student_822,JAMB and WAEC,Yes,nan,Lack of Finance,4,Moral Support,nan,nan,I study with a partner,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2021,205
+Student_823,JAMB,Yes,Average,Long waiting time,2,Moral Support,nan,External issues,I review my notes daily,History,Art,['English' 'Literature in English' 'CRS' 'History'],"500-1,000",2024,312
+Student_824,JAMB,Yes,Average,Long waiting time,5,nan,Negative,Inadequate preparation,I study with a partner,Maths,Science,['English' 'Chemistry' 'Physics' 'Maths'],300-500,2023,196
+Student_825,JAMB,No,nan,Lack of Finance,5,Strict supervision,nan,nan,Used additional resources,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,200
+Student_826,JAMB and WAEC,No,Bad,Long waiting time,5,Strict supervision,nan,Poor Time management,I study with a partner,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],300-500,2023,264
+Student_827,JAMB and WAEC,Yes,Average,No guardian/supervisor,3,nan,Positive & Negative,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2023,220
+Student_828,JAMB and WAEC,No,nan,Time management,5,Strict supervision,nan,nan,I had many mock exams,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],100-300,2023,218
+Student_829,JAMB and WAEC,Yes,Bad,Subject difficulty,3,Strict supervision,Positive & Negative,Inadequate preparation,I study with a partner,Physics,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2023,230
+Student_830,WAEC,Yes,Good,Long waiting time,3,Extra lesson,Positive & Negative,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2022,260
+Student_831,JAMB,No,nan,Time management,3,Strict supervision,nan,External issues,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Biology'],"500-1,000",2022,252
+Student_832,WAEC,No,nan,Time management, ,Counseling,nan,Inadequate preparation,Used additional resources,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2023,197
+Student_833,JAMB and WAEC,Yes,Good,nan,5,nan,Negative,nan,I study with a partner,Physics,Science,['English' 'Maths' 'Physics' 'Biology'],300-500,2022,238
+Student_834,WAEC,Yes,Bad,Fear,1,Accountability partners,Positive,Lack of planning,I review my notes daily,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],300-500,2023,277
+Student_835,JAMB,No,nan,Other commitments,5,Accountability partners,Positive & Negative,nan,I study with a partner,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],100-300,2020,217
+Student_836,WAEC,Yes,Good,Other commitments,5,Mock exams,nan,nan,I study with a partner,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2024,262
+Student_837,JAMB,Yes,Bad,nan,3,nan,Positive & Negative,nan,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],300-500,2023,247
+Student_838,JAMB and WAEC,No,nan,Anxiety,5,Mock exams,nan,Procrastination,I review my notes daily,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],0-100,2020,215
+Student_839,JAMB,Yes,Bad,Time management,3,nan,nan,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2021,238
+Student_840,JAMB,Yes,Bad,Anxiety,5,nan,Negative,nan,I had many mock exams,Commerce,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2022,155
+Student_841,JAMB and WAEC,No,nan,nan,5,Strict supervision,Negative,Inadequate preparation,I attend extra classes,Literature in English,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2020,243
+Student_842,WAEC,No,Good,Anxiety,2,nan,nan,Inadequate preparation,I attend extra classes,Physics,Science,['English' 'Physics' 'Chemistry' 'Biology'],300-500,2024,240
+Student_843,JAMB,No,Bad,Technical issues, ,Moral Support,nan,nan,I review my notes daily,Biology,Science,['English' 'Maths' 'Biology' 'Chemistry'],"1,000 Upwards ",2024,282
+Student_844,WAEC,No,Good,Time management, ,Mock exams,nan,Inadequate preparation,I followed a routine,CRS,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2020,230
+Student_845,WAEC,Yes,Good,Time management,4,Moral Support,nan,Procrastination,I had many mock exams,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],300-500,2021,247
+Student_846,JAMB,No,Average,Long waiting time,2,nan,Positive,Procrastination,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2020,178
+Student_847,JAMB,Yes,Bad,Other commitments, ,nan,nan,External issues,I study with a partner,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,209
+Student_848,JAMB,Yes,Bad,Time management, ,Strict supervision,Positive,Inadequate preparation,I review my notes daily,Maths,Science,['English' 'Chemistry' 'Biology' 'Maths'],"1,000 Upwards ",2024,302
+Student_849,JAMB,Yes,nan,Anxiety,3,Strict supervision,nan,nan,I review my notes daily,CRS,Art,['English' 'History' 'Literature in English' 'CRS'],100-300,2021,264
+Student_850,JAMB and WAEC,No,Bad,Time management,4,Counseling,Positive & Negative,Inadequate preparation,I put away other commitments,Physics,Science,['English' 'Maths' 'Biology' 'Physics'],100-300,2024,186
+Student_851,JAMB,Yes,Average,Fear,4,Extra lesson,Positive & Negative,nan,I had many mock exams,Maths,Science,['English' 'Biology' 'Chemistry' 'Maths'],300-500,2022,264
+Student_852,WAEC,No,Good,Subject difficulty,4,Moral Support,Positive,Inadequate preparation,I attend extra classes,Government,Art,['English' 'Government' 'History' 'CRS'],100-300,2022,202
+Student_853,JAMB,No,Average,Time management,1,Strict supervision,nan,nan,I focus on weak areas,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],"500-1,000",2023,265
+Student_854,WAEC,Yes,Good,Time management, ,nan,nan,Lack of planning,I attend extra classes,CRS,Art,['English' 'Government' 'CRS' 'History'],300-500,2023,253
+Student_855,WAEC,Yes,Bad,Time management, ,nan,nan,nan,I focus on weak areas,Physics,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2023,209
+Student_856,JAMB,Yes,Good,Time management,2,Counseling,nan,Inadequate preparation,I practice with past questions,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2022,253
+Student_857,JAMB and WAEC,No,Bad,Technical issues,3,Strict supervision,nan,External issues,Used additional resources,Literature in English,Art,['English' 'CRS' 'History' 'Literature in English'],300-500,2023,249
+Student_858,JAMB,Yes,Bad,No guardian/supervisor,4,nan,nan,nan,I followed a routine,Government,Art,['English' 'Literature in English' 'History' 'Government'],100-300,2023,266
+Student_859,WAEC,No,Good,Subject difficulty,5,Mock exams,Positive,Poor Time management,I review my notes daily,Government,Art,['English' 'Literature in English' 'Government' 'History'],"500-1,000",2023,253
+Student_860,WAEC,Yes,nan,Anxiety,5,Extra lesson,Positive & Negative,External issues,I put away other commitments,Maths,Science,['English' 'Maths' 'Chemistry' 'Physics'],100-300,2024,222
+Student_861,WAEC,Yes,nan,Time management,2,Accountability partners,nan,nan,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2023,153
+Student_862,JAMB and WAEC,No,Bad,Anxiety,5,nan,Negative,nan,I followed a routine,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2023,237
+Student_863,JAMB,No,Good,Subject difficulty,3,Extra lesson,nan,Procrastination,I followed a routine,History,Art,['English' 'Government' 'History' 'CRS'],0-100,2022,239
+Student_864,JAMB,Yes,Good,Anxiety,3,Extra lesson,Positive,nan,I followed a routine,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2022,184
+Student_865,WAEC,No,Bad,nan,5,Mock exams,Negative,Procrastination,I study with a partner,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2021,207
+Student_866,JAMB,Yes,Good,Anxiety,4,Mock exams,Negative,External issues,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,186
+Student_867,WAEC,Yes,nan,Subject difficulty,4,Strict supervision,nan,Procrastination,I had many mock exams,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],100-300,2023,266
+Student_868,JAMB and WAEC,Yes,Bad,Time management,4,Accountability partners,Positive,Lack of planning,I study with a partner,Physics,Science,['English' 'Chemistry' 'Physics' 'Biology'],300-500,2024,261
+Student_869,JAMB and WAEC,Yes,Bad,Time management,2,Extra lesson,nan,Procrastination,I followed a routine,CRS,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2020,243
+Student_870,WAEC,Yes,Average,Subject difficulty,3,nan,nan,Poor Time management,I attend extra classes,Physics,Science,['English' 'Physics' 'Biology' 'Chemistry'],100-300,2023,168
+Student_871,JAMB and WAEC,Yes,Good,Other commitments, ,nan,nan,Inadequate preparation,I had many mock exams,Maths,Science,['English' 'Maths' 'Biology' 'Physics'],300-500,2023,231
+Student_872,WAEC,No,Bad,Fear,5,Moral Support,Negative,Lack of planning,I followed a routine,History,Art,['English' 'Government' 'Literature in English' 'History'],0-100,2022,185
+Student_873,JAMB,No,Good,Long waiting time, ,nan,Positive,Poor Time management,I followed a routine,History,Art,['English' 'Government' 'History' 'CRS'],"1,000 Upwards ",2020,254
+Student_874,JAMB,Yes,Average,Anxiety,5,Extra lesson,nan,External issues,Used additional resources,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],300-500,2021,233
+Student_875,JAMB,No,Bad,Time management,5,nan,Positive,nan,I attend extra classes,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],"500-1,000",2020,270
+Student_876,JAMB and WAEC,Yes,nan,Long waiting time,4,Extra lesson,nan,nan,I followed a routine,History,Art,['English' 'History' 'Literature in English' 'CRS'],"1,000 Upwards ",2020,271
+Student_877,JAMB,Yes,Average,Anxiety,5,Extra lesson,Negative,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],"1,000 Upwards ",2022,243
+Student_878,WAEC,Yes,nan,Lack of time due to chores/work,4,Mock exams,Negative,Procrastination,I study with a partner,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],300-500,2023,231
+Student_879,JAMB,Yes,Bad,Time management,5,Strict supervision,nan,Procrastination,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],300-500,2022,202
+Student_880,JAMB,Yes,Good,nan,4,Strict supervision,Positive,Inadequate preparation,I practice with past questions,History,Art,['English' 'Government' 'History' 'Literature in English'],300-500,2022,258
+Student_881,JAMB and WAEC,No,Bad,Time management,4,Extra lesson,nan,Procrastination,I had many mock exams,CRS,Art,['English' 'Literature in English' 'CRS' 'Government'],"500-1,000",2024,285
+Student_882,WAEC,Yes,Bad,Long waiting time,3,nan,nan,Lack of planning,I attend extra classes,Biology,Science,['English' 'Biology' 'Physics' 'Maths'],"500-1,000",2022,261
+Student_883,JAMB,Yes,Bad,Time management,3,Counseling,Negative,Inadequate preparation,I attend extra classes,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],"500-1,000",2022,270
+Student_884,JAMB,No,Bad,Long waiting time,5,Strict supervision,nan,Poor Time management,I attend extra classes,Biology,Science,['English' 'Biology' 'Chemistry' 'Physics'],300-500,2023,223
+Student_885,WAEC,No,Good,Fear,5,Mock exams,Positive,nan,I had many mock exams,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],0-100,2024,150
+Student_886,WAEC,Yes,Good,Time management,5,Moral Support,Negative,nan,I study with a partner,History,Art,['English' 'History' 'Literature in English' 'CRS'],0-100,2023,186
+Student_887,JAMB and WAEC,No,Bad,Fear,5,Mock exams,nan,Poor Time management,I focus on weak areas,History,Art,['English' 'History' 'Government' 'CRS'],300-500,2020,227
+Student_888,JAMB,No,nan,Long waiting time, ,nan,Positive,Procrastination,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2023,245
+Student_889,JAMB and WAEC,Yes,Good,Long waiting time,2,Extra lesson,nan,nan,I attend extra classes,Accounting,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],100-300,2022,244
+Student_890,JAMB,Yes,Bad,nan,2,Counseling,Negative,Procrastination,Used additional resources,Government,Art,['English' 'Literature in English' 'History' 'Government'],300-500,2020,269
+Student_891,JAMB,Yes,Bad,Time management, ,Strict supervision,Positive & Negative,Procrastination,I review my notes daily,Chemistry,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2023,164
+Student_892,JAMB and WAEC,Yes,Good,Time management,3,Strict supervision,nan,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'Literature in English' 'History' 'Government'],300-500,2023,259
+Student_893,JAMB and WAEC,Yes,nan,Lack of time due to chores/work,5,Strict supervision,Positive,Inadequate preparation,I review my notes daily,CRS,Art,['English' 'CRS' 'History' 'Government'],0-100,2023,182
+Student_894,JAMB and WAEC,No,Bad,Fear, ,Extra lesson,nan,Poor Time management,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],300-500,2023,283
+Student_895,JAMB,No,Average,Time management,3,Strict supervision,nan,Procrastination,I followed a routine,Literature in English,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2024,234
+Student_896,JAMB,Yes,Bad,Anxiety,5,nan,nan,nan,I followed a routine,Biology,Science,['English' 'Biology' 'Chemistry' 'Maths'],300-500,2024,225
+Student_897,JAMB,Yes,Good,Time management,2,Extra lesson,Negative,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"1,000 Upwards ",2023,225
+Student_898,JAMB and WAEC,Yes,Good,Anxiety,3,Counseling,nan,nan,I study with a partner,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2023,265
+Student_899,JAMB and WAEC,Yes,Average,Long waiting time,5,nan,nan,Procrastination,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Biology' 'Chemistry'],100-300,2022,261
+Student_900,JAMB and WAEC,Yes,nan,Lack of Finance,4,Extra lesson,Negative,Inadequate preparation,I study with a partner,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],"500-1,000",2024,241
+Student_901,JAMB,No,Good,nan,5,Moral Support,Negative,Procrastination,I put away other commitments,Government,Art,['English' 'History' 'Government' 'CRS'],0-100,2021,216
+Student_902,WAEC,Yes,Bad,Time management, ,nan,Positive,External issues,I review my notes daily,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2021,218
+Student_903,WAEC,No,Average,Time management, ,Counseling,Positive,Procrastination,I put away other commitments,History,Art,['English' 'History' 'Government' 'Literature in English'],100-300,2023,198
+Student_904,JAMB and WAEC,No,Good,Technical issues,3,nan,nan,nan,I focus on weak areas,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],300-500,2023,235
+Student_905,JAMB,Yes,Bad,Time management, ,Mock exams,Negative,Procrastination,I followed a routine,Maths,Science,['English' 'Maths' 'Biology' 'Chemistry'],"500-1,000",2022,239
+Student_906,JAMB and WAEC,Yes,nan,Anxiety,3,Strict supervision,nan,nan,I review my notes daily,Government,Art,['English' 'Government' 'CRS' 'History'],100-300,2022,204
+Student_907,JAMB,Yes,Good,Lack of Finance,4,Moral Support,nan,Inadequate preparation,I attend extra classes,Chemistry,Science,['English' 'Physics' 'Biology' 'Chemistry'],"500-1,000",2022,232
+Student_908,JAMB and WAEC,No,Average,Long waiting time,4,Counseling,nan,Poor Time management,I attend extra classes,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2021,192
+Student_909,JAMB and WAEC,Yes,Bad,Anxiety,4,Counseling,Positive & Negative,Inadequate preparation,I study with a partner,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2024,215
+Student_910,JAMB and WAEC,Yes,Average,Long waiting time,5,nan,Positive,Procrastination,I study with a partner,History,Art,['English' 'Government' 'CRS' 'History'],300-500,2024,214
+Student_911,JAMB,No,Bad,nan,4,Extra lesson,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2020,158
+Student_912,JAMB,Yes,nan,Time management, ,nan,nan,External issues,I practice with past questions,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],100-300,2022,267
+Student_913,JAMB and WAEC,No,Good,Time management,5,nan,Negative,Poor Time management,I had many mock exams,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],300-500,2022,228
+Student_914,JAMB,Yes,Good,Technical issues,3,Mock exams,nan,Inadequate preparation,I followed a routine,Literature in English,Art,['English' 'Government' 'Literature in English' 'CRS'],100-300,2021,198
+Student_915,JAMB and WAEC,No,Average,Anxiety,4,nan,Negative,Procrastination,I followed a routine,Chemistry,Science,['English' 'Physics' 'Maths' 'Chemistry'],"500-1,000",2021,294
+Student_916,JAMB,Yes,Bad,Long waiting time,5,nan,Negative,Procrastination,I followed a routine,CRS,Art,['English' 'Literature in English' 'Government' 'CRS'],100-300,2020,185
+Student_917,JAMB and WAEC,Yes,Good,Time management,5,nan,Positive,Procrastination,I followed a routine,Government,Art,['English' 'History' 'Government' 'Literature in English'],100-300,2023,190
+Student_918,JAMB and WAEC,Yes,Average,Anxiety,4,Mock exams,nan,nan,I review my notes daily,Maths,Science,['English' 'Chemistry' 'Maths' 'Physics'],"500-1,000",2020,246
+Student_919,WAEC,Yes,Good,Fear, ,Strict supervision,nan,Procrastination,I attend extra classes,Accounting,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"500-1,000",2020,304
+Student_920,JAMB,Yes,Average,Long waiting time, ,Strict supervision,nan,Procrastination,I attend extra classes,Literature in English,Art,['English' 'Literature in English' 'History' 'CRS'],100-300,2020,228
+Student_921,JAMB and WAEC,Yes,Good,nan,3,Moral Support,Positive & Negative,Procrastination,I followed a routine,Biology,Science,['English' 'Physics' 'Biology' 'Chemistry'],"1,000 Upwards ",2021,280
+Student_922,JAMB and WAEC,No,Bad,Long waiting time,4,nan,nan,Poor Time management,I followed a routine,Maths,Science,['English' 'Maths' 'Physics' 'Biology'],0-100,2021,189
+Student_923,JAMB and WAEC,No,Bad,Long waiting time,2,Moral Support,nan,External issues,I followed a routine,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],"1,000 Upwards ",2020,267
+Student_924,JAMB,Yes,Good,Anxiety,5,Moral Support,nan,nan,I review my notes daily,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],300-500,2022,250
+Student_925,JAMB and WAEC,Yes,Good,Time management,2,Counseling,nan,Inadequate preparation,I attend extra classes,History,Art,['English' 'History' 'Literature in English' 'Government'],0-100,2023,172
+Student_926,WAEC,Yes,Bad,Time management,4,Strict supervision,nan,Procrastination,Used additional resources,Biology,Science,['English' 'Chemistry' 'Physics' 'Biology'],0-100,2022,234
+Student_927,WAEC,Yes,nan,nan,2,nan,nan,nan,Used additional resources,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],"1,000 Upwards ",2021,301
+Student_928,JAMB,Yes,Good,Lack of Finance,2,Mock exams,nan,External issues,Used additional resources,Literature in English,Art,['English' 'CRS' 'Government' 'Literature in English'],100-300,2024,223
+Student_929,JAMB and WAEC,No,nan,Fear,4,Counseling,nan,Inadequate preparation,I review my notes daily,Accounting,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],"500-1,000",2023,258
+Student_930,WAEC,No,nan,Fear,4,Strict supervision,Positive,Procrastination,I focus on weak areas,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],0-100,2024,224
+Student_931,JAMB,No,Average,No guardian/supervisor,1,Strict supervision,Negative,Procrastination,Used additional resources,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2023,224
+Student_932,JAMB and WAEC,Yes,Bad,Time management,4,Mock exams,Positive,Procrastination,I focus on weak areas,Biology,Science,['English' 'Chemistry' 'Biology' 'Physics'],100-300,2020,201
+Student_933,JAMB,Yes,Bad,Anxiety,4,Strict supervision,nan,Lack of planning,I put away other commitments,Literature in English,Art,['English' 'Literature in English' 'Government' 'History'],0-100,2020,226
+Student_934,JAMB and WAEC,No,Bad,Anxiety,5,nan,Positive & Negative,Procrastination,I had many mock exams,Maths,Science,['English' 'Maths' 'Biology' 'Chemistry'],"1,000 Upwards ",2021,318
+Student_935,WAEC,Yes,Average,Fear,5,nan,Negative,Procrastination,Used additional resources,Government,Art,['English' 'History' 'CRS' 'Government'],300-500,2023,235
+Student_936,WAEC,No,nan,Fear,4,nan,Negative,Poor Time management,Used additional resources,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],0-100,2021,175
+Student_937,JAMB,Yes,Average,Fear, ,Counseling,nan,Inadequate preparation,I practice with past questions,Maths,Science,['English' 'Physics' 'Maths' 'Biology'],"500-1,000",2024,210
+Student_938,WAEC,Yes,nan,Anxiety,3,nan,Positive & Negative,Inadequate preparation,I review my notes daily,CRS,Art,['English' 'History' 'CRS' 'Government'],0-100,2023,150
+Student_939,JAMB and WAEC,Yes,Bad,Long waiting time, ,nan,nan,Inadequate preparation,I followed a routine,Physics,Science,['English' 'Maths' 'Chemistry' 'Physics'],0-100,2020,197
+Student_940,JAMB,Yes,nan,Long waiting time,5,Mock exams,Negative,Procrastination,I attend extra classes,Biology,Science,['English' 'Physics' 'Biology' 'Maths'],0-100,2022,234
+Student_941,WAEC,Yes,Average,Time management,4,Mock exams,nan,External issues,I study with a partner,CRS,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2021,203
+Student_942,JAMB and WAEC,Yes,nan,Technical issues,2,nan,nan,nan,Used additional resources,CRS,Art,['English' 'History' 'CRS' 'Literature in English'],"1,000 Upwards ",2023,229
+Student_943,WAEC,No,Good,Anxiety,4,Counseling,nan,Poor Time management,I followed a routine,Maths,Science,['English' 'Maths' 'Chemistry' 'Physics'],"1,000 Upwards ",2023,320
+Student_944,JAMB,Yes,Bad,Other commitments,4,Moral Support,nan,Lack of planning,I review my notes daily,Government,Art,['English' 'Literature in English' 'History' 'Government'],0-100,2021,165
+Student_945,WAEC,Yes,Bad,Technical issues,5,nan,nan,nan,I followed a routine,Government,Art,['English' 'Literature in English' 'History' 'Government'],"1,000 Upwards ",2024,283
+Student_946,JAMB and WAEC,No,Good,Time management,4,Strict supervision,Negative,nan,I review my notes daily,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Physics'],0-100,2020,199
+Student_947,WAEC,Yes,Bad,Long waiting time,2,Extra lesson,nan,External issues,I practice with past questions,Literature in English,Art,['English' 'CRS' 'Literature in English' 'History'],300-500,2022,261
+Student_948,JAMB,Yes,Average,Anxiety,3,Moral Support,Positive,Poor Time management,I attend extra classes,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,218
+Student_949,WAEC,Yes,Average,Long waiting time,4,nan,nan,Inadequate preparation,Used additional resources,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],300-500,2020,224
+Student_950,JAMB,Yes,Good,Fear,3,nan,Positive,Procrastination,I focus on weak areas,Government,Art,['English' 'History' 'Government' 'Literature in English'],"500-1,000",2020,276
+Student_951,WAEC,Yes,nan,Technical issues,4,Mock exams,Positive & Negative,nan,I followed a routine,Maths,Science,['English' 'Chemistry' 'Maths' 'Biology'],0-100,2022,175
+Student_952,JAMB and WAEC,No,nan,Time management, ,Moral Support,Positive,Inadequate preparation,I review my notes daily,Commerce,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],100-300,2024,216
+Student_953,WAEC,Yes,Bad,Lack of Finance,3,nan,Positive,nan,I review my notes daily,Chemistry,Science,['English' 'Maths' 'Physics' 'Chemistry'],100-300,2020,240
+Student_954,WAEC,Yes,Good,Subject difficulty,3,Mock exams,Negative,Procrastination,I study with a partner,Commerce,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],"1,000 Upwards ",2022,264
+Student_955,WAEC,No,Good,Subject difficulty,3,Strict supervision,nan,Procrastination,Used additional resources,Government,Art,['English' 'Literature in English' 'CRS' 'Government'],"1,000 Upwards ",2020,312
+Student_956,JAMB and WAEC,Yes,nan,Time management,5,Strict supervision,Positive,Inadequate preparation,I followed a routine,History,Art,['English' 'CRS' 'History' 'Literature in English'],100-300,2024,217
+Student_957,JAMB and WAEC,Yes,Good,nan,5,Moral Support,nan,Procrastination,Used additional resources,Biology,Science,['English' 'Biology' 'Maths' 'Physics'],0-100,2023,170
+Student_958,JAMB,No,Average,nan, ,Counseling,nan,nan,I focus on weak areas,Commerce,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2024,250
+Student_959,JAMB,No,Average,Fear,5,Counseling,nan,nan,I review my notes daily,Literature in English,Art,['English' 'Government' 'Literature in English' 'History'],300-500,2024,281
+Student_960,JAMB,Yes,Bad,No guardian/supervisor,1,Accountability partners,Positive,Lack of planning,I study with a partner,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],100-300,2020,224
+Student_961,JAMB and WAEC,Yes,Average,Time management,1,Counseling,Negative,Procrastination,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Physics' 'Maths'],0-100,2021,241
+Student_962,JAMB,No,Bad,Fear,4,nan,nan,External issues,I study with a partner,Chemistry,Science,['English' 'Maths' 'Biology' 'Chemistry'],100-300,2024,216
+Student_963,JAMB and WAEC,Yes,Bad,Long waiting time,4,Extra lesson,nan,Poor Time management,I followed a routine,Economics,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],300-500,2022,259
+Student_964,WAEC,Yes,nan,Lack of Finance,1,Counseling,nan,Inadequate preparation,I focus on weak areas,Government,Art,['English' 'Government' 'CRS' 'History'],0-100,2020,170
+Student_965,WAEC,Yes,Bad,Technical issues,3,Strict supervision,nan,nan,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2023,166
+Student_966,JAMB and WAEC,No,Average,No guardian/supervisor, ,Extra lesson,nan,Inadequate preparation,I followed a routine,Commerce,Commercial,['English' 'Commerce' 'Accounting' 'Economics'],100-300,2022,225
+Student_967,WAEC,Yes,Good,Anxiety,5,Mock exams,nan,Poor Time management,I attend extra classes,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2021,247
+Student_968,JAMB,No,Good,Fear,3,Counseling,Negative,Lack of planning,I review my notes daily,Government,Art,['English' 'CRS' 'Literature in English' 'Government'],100-300,2020,180
+Student_969,JAMB,No,Average,Lack of time due to chores/work,4,nan,Positive,Procrastination,I followed a routine,Government,Art,['English' 'Government' 'CRS' 'Literature in English'],100-300,2020,192
+Student_970,WAEC,Yes,Bad,No guardian/supervisor,2,Strict supervision,nan,Inadequate preparation,I followed a routine,Chemistry,Science,['English' 'Chemistry' 'Biology' 'Physics'],"500-1,000",2022,281
+Student_971,JAMB,No,Bad,Fear,3,Counseling,nan,External issues,I review my notes daily,CRS,Art,['English' 'Literature in English' 'History' 'CRS'],"1,000 Upwards ",2021,311
+Student_972,JAMB,Yes,Average,Anxiety, ,nan,nan,nan,I review my notes daily,Chemistry,Science,['English' 'Physics' 'Chemistry' 'Maths'],300-500,2020,216
+Student_973,JAMB,No,Bad,Lack of Finance,3,Mock exams,Positive & Negative,Inadequate preparation,I had many mock exams,Accounting,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],100-300,2024,236
+Student_974,JAMB,No,nan,Long waiting time,5,nan,Positive,nan,I followed a routine,Physics,Science,['English' 'Biology' 'Physics' 'Chemistry'],0-100,2020,214
+Student_975,JAMB,Yes,Good,Time management,5,Counseling,nan,Lack of planning,I followed a routine,Accounting,Commercial,['English' 'Accounting' 'Commerce' 'Economics'],0-100,2023,251
+Student_976,JAMB,No,nan,Time management,5,Extra lesson,Negative,Inadequate preparation,I attend extra classes,Commerce,Commercial,['English' 'Accounting' 'Economics' 'Commerce'],"500-1,000",2021,282
+Student_977,WAEC,No,nan,No guardian/supervisor,4,nan,nan,External issues,I had many mock exams,History,Art,['English' 'History' 'Government' 'Literature in English'],300-500,2023,235
+Student_978,JAMB,Yes,nan,Anxiety,4,Accountability partners,Positive & Negative,Poor Time management,I review my notes daily,Economics,Commercial,['English' 'Economics' 'Commerce' 'Accounting'],0-100,2024,193
+Student_979,WAEC,Yes,nan,Time management, ,Strict supervision,Negative,nan,I study with a partner,Literature in English,Art,['English' 'Literature in English' 'CRS' 'History'],"1,000 Upwards ",2020,269
+Student_980,JAMB,No,Good,Long waiting time,4,nan,Negative,Lack of planning,I had many mock exams,Government,Art,['English' 'Government' 'CRS' 'History'],0-100,2023,210
+Student_981,WAEC,No,Average,Lack of Finance,5,Mock exams,nan,Inadequate preparation,I had many mock exams,Literature in English,Art,['English' 'Literature in English' 'Government' 'History'],"1,000 Upwards ",2023,296
+Student_982,WAEC,Yes,Average,No guardian/supervisor,5,nan,Positive & Negative,Procrastination,I had many mock exams,History,Art,['English' 'CRS' 'Government' 'History'],300-500,2024,221
+Student_983,JAMB and WAEC,Yes,Average,Anxiety,2,Extra lesson,nan,nan,I attend extra classes,Maths,Science,['English' 'Biology' 'Physics' 'Maths'],300-500,2023,209
+Student_984,JAMB,No,Bad,Time management,4,Strict supervision,nan,Lack of planning,I had many mock exams,Maths,Science,['English' 'Physics' 'Biology' 'Maths'],300-500,2022,222
+Student_985,JAMB,Yes,Bad,Long waiting time,3,Mock exams,nan,Inadequate preparation,I had many mock exams,Physics,Science,['English' 'Chemistry' 'Physics' 'Maths'],100-300,2022,270
+Student_986,JAMB,Yes,Bad,Lack of Finance,5,nan,nan,Inadequate preparation,I review my notes daily,History,Art,['English' 'CRS' 'Government' 'History'],0-100,2021,199
+Student_987,JAMB,Yes,Average,Time management,2,nan,Negative,Poor Time management,I followed a routine,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2024,238
+Student_988,WAEC,Yes,Average,Long waiting time,4,Strict supervision,Positive,Inadequate preparation,I attend extra classes,Accounting,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],0-100,2022,172
+Student_989,JAMB,No,Average,Anxiety,1,nan,Negative,External issues,I review my notes daily,Biology,Science,['English' 'Chemistry' 'Biology' 'Maths'],100-300,2020,187
+Student_990,WAEC,Yes,Good,Time management,5,Moral Support,Positive & Negative,Poor Time management,I followed a routine,Chemistry,Science,['English' 'Biology' 'Chemistry' 'Maths'],"1,000 Upwards ",2024,317
+Student_991,JAMB and WAEC,No,Bad,Time management,4,nan,nan,Poor Time management,I had many mock exams,Government,Art,['English' 'CRS' 'Government' 'Literature in English'],"500-1,000",2023,232
+Student_992,WAEC,Yes,Good,Time management,3,Counseling,Positive,Procrastination,I put away other commitments,Physics,Science,['English' 'Chemistry' 'Biology' 'Physics'],100-300,2022,257
+Student_993,JAMB,Yes,Average,Technical issues,4,Accountability partners,nan,Lack of planning,I put away other commitments,Economics,Commercial,['English' 'Commerce' 'Economics' 'Accounting'],100-300,2022,205
+Student_994,JAMB,Yes,nan,Other commitments,5,nan,nan,Procrastination,I attend extra classes,Maths,Science,['English' 'Chemistry' 'Physics' 'Maths'],0-100,2023,221
+Student_995,JAMB and WAEC,Yes,Bad,Time management, ,Moral Support,Negative,External issues,I had many mock exams,Economics,Commercial,['English' 'Economics' 'Accounting' 'Commerce'],300-500,2022,232
+Student_996,JAMB,Yes,Bad,Time management,2,Strict supervision,Positive & Negative,Procrastination,I focus on weak areas,Government,Art,['English' 'Government' 'CRS' 'History'],300-500,2023,207
+Student_997,WAEC,Yes,Bad,Long waiting time,5,Strict supervision,Positive & Negative,nan,I followed a routine,Biology,Science,['English' 'Maths' 'Chemistry' 'Biology'],0-100,2023,220
+Student_998,JAMB,Yes,Bad,Fear,4,Counseling,Positive & Negative,nan,I had many mock exams,Government,Art,['English' 'Government' 'Literature in English' 'CRS'],"500-1,000",2024,237
+Student_999,JAMB,Yes,Bad,Technical issues, ,Counseling,Negative,External issues,I practice with past questions,Biology,Science,['English' 'Biology' 'Maths' 'Chemistry'],100-300,2024,200
+Student_1000,WAEC,Yes,Average,Fear,5,Extra lesson,nan,Procrastination,I review my notes daily,History,Art,['English' 'CRS' 'Literature in English' 'History'],0-100,2024,197
